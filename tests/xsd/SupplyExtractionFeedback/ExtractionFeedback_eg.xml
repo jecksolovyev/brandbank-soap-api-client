@@ -1,0 +1,143 @@
+<RetailerProcessFeedback xmlns="http://www.brandbank.com/schemas/rpf/2005/11">
+  <Message DateTime="2007-12-18T21:11:06.080" />
+  <Item Status="Matched">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635366</BrandbankID>
+    <Description>Nicky Clarke Smooth It Over Finishing Serum 75ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Matched">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635377</BrandbankID>
+    <Description>Nicky Clarke Intense Defence Curling Tong Spritz 150ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Matched">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635395</BrandbankID>
+    <Description>Wella Silvikrin Hairspray Maximum Hold 4 400ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Matched">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635396</BrandbankID>
+    <Description>Nicky Clarke Finishing Spray 75ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Matched">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635411</BrandbankID>
+    <Description>Clairol Nice'n Easy Permanent Colour Natural Extra Light Blonde 98</Description>
+    <Comment />
+  </Item>
+  <Item Status="Matched">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635413</BrandbankID>
+    <Description>Nicky Clarke Endless Waves Wave And Curl Defining Shampoo 250ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Matched">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635429</BrandbankID>
+    <Description>Nicky Clarke Endless Waves Wave and Curl Defining Conditioner 250ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Matched">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635431</BrandbankID>
+    <Description>Nicky Clarke Smooth it Over High-Shine Super Smooth Hairspray 200ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Matched">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635433</BrandbankID>
+    <Description>Clairol Nice 'n Easy Root Touch-Up Dark Blonde 7</Description>
+    <Comment />
+  </Item>
+  <Item Status="Matched">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635435</BrandbankID>
+    <Description>Wella Silvikrin Shiny Hold Ultra Strong Hold Hairspray 75ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Not Sold">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635368</BrandbankID>
+    <Description>Nicky Clarke Colour Therapy Take it as Red Conditioner 250ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Not Sold">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635375</BrandbankID>
+    <Description>Head &amp; Shoulders Anti-Dandruff Volume Boost Conditioner 400ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Not Sold">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635376</BrandbankID>
+    <Description>Head &amp; Shoulders Anti-Dandruff Soothing Care Conditioner 200ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Not Sold">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635388</BrandbankID>
+    <Description>Pantene Pro-V Sheer Volume Conditioner 200ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Not Sold">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635399</BrandbankID>
+    <Description>Wella Silvikrin Hairspray Strong Hold for Coloured Hair 2 250ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Not Sold">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635410</BrandbankID>
+    <Description>Pantene Pro-V 2 Minute Colour Shine Treatment Radiant Colour 150ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Not Sold">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635414</BrandbankID>
+    <Description>Pantene Pro-V Classic Care Shampoo 750ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Not Sold">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635423</BrandbankID>
+    <Description>Clairol Herbal Essences Fearless Colour 16 Star Light Light Blonde</Description>
+    <Comment />
+  </Item>
+  <Item Status="Not Sold">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635425</BrandbankID>
+    <Description>Wella Silvikrin Curls &amp; Waves Hold + Bounce Firm Hold Hairspray 75ml</Description>
+    <Comment />
+  </Item>
+  <Item Status="Not Sold">
+    <RetailerID />
+    <MessageGUID>{9c36d145-b54f-491a-b067-8ef6c1ea0b95}</MessageGUID>
+    <BrandbankID>635437</BrandbankID>
+    <Description>Head &amp; Shoulders Anti-Dandruff Soothing Care Conditioner 400ml</Description>
+    <Comment />
+  </Item>
+</RetailerProcessFeedback>

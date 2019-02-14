@@ -1,0 +1,36 @@
+{
+  "name": "jecksolovyev/brandbank-soap-api-client",
+  "description": "Client to work with Brandbank SOAP API",
+  "keywords": ["Brandbank", "SOAP", "API"],
+  "homepage": "https://github.com/jecksolovyev/brandbank-soap-api-client",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Evgeniy Solovyev",
+      "email": "jeck.solovyev@gmail.com",
+      "homepage": "https://github.com/jecksolovyev"
+    }
+  ],
+  "scripts": {
+    "tests": "./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/"
+  },
+  "require": {
+    "php": "^7.1",
+    "monolog/monolog": "^1.24",
+    "artisaninweb/laravel-soap": "0.3.0.9",
+    "ext-soap": "*",
+    "ext-json": "*",
+    "ext-simplexml": "*",
+    "ext-mbstring": "*",
+    "ext-dom": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "BrandbankSOAPAPIClient\\": "src"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.5"
+  }
+}

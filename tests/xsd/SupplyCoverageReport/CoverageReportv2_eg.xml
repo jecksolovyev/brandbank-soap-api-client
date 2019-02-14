@@ -1,0 +1,53 @@
+﻿<RetailerFeedbackReport xmlns="http://www.brandbank.com/schemas/CoverageFeedback/2005/11">
+    <Message DateTime="2007-09-20T00:13:05.030" Domain="TES"/>
+    <Item HasLabelData="true" HasImage="true">
+        <RetailerID>50000158</RetailerID>
+        <Description>Britvic J20 Orange &amp; Passionfruit 12 X 275ml</Description>
+        <GTINs>
+            <GTIN Value="5010102108394">
+                <Suppliers>
+                    <Supplier>
+                        <SupplierCode>10497</SupplierCode>
+                        <SupplierName>BRITVIC SOFT DRINKS LTD (CLOSE</SupplierName>
+                    </Supplier>
+                </Suppliers>
+            </GTIN>
+            <GTIN Value="1111111111111">
+                <Suppliers>
+                    <Supplier>
+                        <SupplierCode>123456</SupplierCode>
+                        <SupplierName>ANOTHER SOFT DRINKS LTD</SupplierName>
+                    </Supplier>
+                </Suppliers>
+            </GTIN>
+        </GTINs>
+        <OwnLabel>false</OwnLabel>
+        <Categories>
+            <Category>Adult Herb/Fruit Drinks
+                <Group Code="A" Level="1">Food and Drink</Group>
+                <Group Code="AS" Level="2">Soft and Hot Drinks</Group>
+                <Group Code="AS06" Level="3">Fruit Juice - Long Life</Group>
+                <Group Code="G62PD" Level="4">Adult Herb/Fruit Drinks</Group>
+            </Category>
+        </Categories>
+        <DataContents>
+            <Content Type="Has Ingredients">false</Content>
+            <Content Type="Has GDA">false</Content>
+            <Content Type="Has Nutrition">false</Content>
+            <Content Type="Has Marketing Copy">false</Content>
+        </DataContents>
+        <RetailerExtensions>
+            <Extension Type="Assistant Buyer">John Smith</Extension>
+            <Extension Type="Buyer">John Smith</Extension>
+            <Extension Type="Buying Controller">John Smith</Extension>
+            <Extension Type="Buyer">John Smith</Extension>
+            <Extension Type="Category Director">John Smith</Extension>
+            <Extension Type="Commercial Director">John Smith</Extension>
+            <Extension Type="Store Count">123</Extension>
+            <Extension Type="Image Date">2007-09-10T00:13:05.030</Extension>
+            <Extension Type="Store">Wymondham</Extension>
+            <Extension Type="Store">Fleet</Extension>
+            <Extension Type="FIR 1169 Status">Compliant</Extension>
+        </RetailerExtensions>
+    </Item>
+</RetailerFeedbackReport>

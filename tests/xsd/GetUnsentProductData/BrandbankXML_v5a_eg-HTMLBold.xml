@@ -1,0 +1,2286 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Message Id="523bcf86-8847-435a-b4a8-c875cfebfa3d" DateTime="2015-03-19T09:17:05Z" DataVersion="2.00.00">
+  <Product VersionDateTime="2014-06-30T15:07:57Z">
+    <Identity>
+      <TargetMarkets>
+        <TargetMarket Code="GB" />
+        <TargetMarket Code="IE" />
+        <TargetMarket Code="CZ" />
+        <TargetMarket Code="PL" />
+        <TargetMarket Code="DE" />
+        <TargetMarket Code="SK" />
+        <TargetMarket Code="TH" />
+        <TargetMarket Code="MY" />
+        <TargetMarket Code="HU" />
+        <TargetMarket Code="NL" />
+        <TargetMarket Code="CN" />
+        <TargetMarket Code="TR" />
+        <TargetMarket Code="AT" />
+        <TargetMarket Code="US" />
+        <TargetMarket Code="IT" />
+        <TargetMarket Code="FR" />
+        <TargetMarket Code="BE" />
+        <TargetMarket Code="LU" />
+        <TargetMarket Code="LV" />
+      </TargetMarkets>
+      <ProductCodes>
+        <Code Scheme="GTIN">5039023015901</Code>
+        <Code Scheme="BRANDBANK:PVID">1651886</Code>
+      </ProductCodes>
+      <Subscription Id="54400" Code="OBBD001">Brandbank Demo (Grocery)</Subscription>
+      <DiagnosticDescription Code="en-GB">Kinder Bueno Milk and Hazelnuts Bar 4 x 43g</DiagnosticDescription>
+      <DefaultLanguage>en-GB</DefaultLanguage>
+      <Compliance>
+        <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+      </Compliance>
+    </Identity>
+    <Assets>
+      <Image ShotTypeId="1" ShotType="ID Shot" MimeType="image/jpeg">
+        <Specification>
+          <RequestedDimensions Units="Pixels">
+            <Width>140</Width>
+            <Height>140</Height>
+          </RequestedDimensions>
+          <Quality>85</Quality>
+          <Resolution>72</Resolution>
+          <IsCropped>false</IsCropped>
+          <CropPadding>0</CropPadding>
+          <MaxSizeInBytes>0</MaxSizeInBytes>
+        </Specification>
+        <Url>http://productimages.brandbank.com/snapshotimagehandler.ashx?id=0088717d-d7da-1521-eb5a-139a00b93a1b</Url>
+        <Thumbprint>P7c/gCUWElGYeYPo76THPg==</Thumbprint>
+      </Image>
+    </Assets>
+    <Data>
+      <Language Code="en-GB" Source="OffPack" GroupingSetId="0" GroupingSetName="No Grouping">
+        <Description>Kinder Bueno Milk and Hazelnuts Bar 4 x 43g</Description>
+        <Categorisations>
+          <Categorisation Scheme="BRANDBANK">
+            <Level Code="07">Grocery</Level>
+            <Level Code="15">Confectionery</Level>
+            <Level Code="03">Snacksize Chocolate Bars</Level>
+          </Categorisation>
+        </Categorisations>
+        <ItemTypeGroup Id="0" Name="All Attributes">
+          <Statements Id="1" Name="Third Party Logos">
+            <Statement Id="239">Approved Organic Standard IOFGA</Statement>
+            <Statement Id="20">Canada Flag</Statement>
+            <Statement Id="225">CE Mark - European Conformance</Statement>
+            <Statement Id="49">Controllo Biologico (Italian organic logo)</Statement>
+            <Statement Id="1820">Crossed Grain Symbol</Statement>
+            <Statement Id="240">Demeter - Certified Biodynamic</Statement>
+            <Statement Id="14">Denmark Flag</Statement>
+            <Statement Id="51">Dolphin Friendly Tuna</Statement>
+            <Statement Id="1808">EU Organic</Statement>
+            <Statement Id="50">Fairtrade Foundation</Statement>
+            <Statement Id="229">Farm Assured Welsh Livestock (FAWL)</Statement>
+            <Statement Id="241">Farm Quality Assured Northern Ireland</Statement>
+            <Statement Id="16">France Flag</Statement>
+            <Statement Id="34">Freedom Food - RSPCA Monitored</Statement>
+            <Statement Id="19">Germany Flag</Statement>
+            <Statement Id="11">Grown in Perthshire</Statement>
+            <Statement Id="5">Ireland Flag</Statement>
+            <Statement Id="18">Italy Flag</Statement>
+            <Statement Id="1814">LEAF – Linking Environment and Farming</Statement>
+            <Statement Id="230">Lion Quality Mark</Statement>
+            <Statement Id="245">Love Irish Food</Statement>
+            <Statement Id="35">Marine Stewardship Council</Statement>
+            <Statement Id="29">National Dairy Farm Assured Scheme</Statement>
+            <Statement Id="17">Netherlands Flag</Statement>
+            <Statement Id="53">New Zealand Lamb</Statement>
+            <Statement Id="435">OMSCO (Organic Milk Suppliers' Cooperative)</Statement>
+            <Statement Id="232">Organic Farmers &amp; Growers (Organic Certification UK2)</Statement>
+            <Statement Id="7">Packed in Ireland</Statement>
+            <Statement Id="9">Produced and Packed in Ireland</Statement>
+            <Statement Id="6">Produced in Ireland</Statement>
+            <Statement Id="8">Produced in Northern Ireland</Statement>
+            <Statement Id="36">Protected Designation of Origin</Statement>
+            <Statement Id="37">Protected Geographical Indication</Statement>
+            <Statement Id="60">Quality Assured Farmed Venison</Statement>
+            <Statement Id="25">Quality Meats Scotland</Statement>
+            <Statement Id="237">Quality Standard Beef British</Statement>
+            <Statement Id="242">Quality Standard Beef English</Statement>
+            <Statement Id="243">Quality Standard Lamb British</Statement>
+            <Statement Id="244">Quality Standard Lamb English</Statement>
+            <Statement Id="40">Real Dairy Cream</Statement>
+            <Statement Id="228">Red Tractor (Assured Food Standards)</Statement>
+            <Statement Id="238">Soil Association Organic (GB Organic Certification 5)</Statement>
+            <Statement Id="236">Soil Association Organic (Organic certification UK5)</Statement>
+            <Statement Id="231">SOPA Scottish Organic Producers Association</Statement>
+            <Statement Id="10">Sourced in Northern Ireland</Statement>
+            <Statement Id="15">Spain Flag</Statement>
+            <Statement Id="55">Specially Selected Scotch Beef</Statement>
+            <Statement Id="57">Specially Selected Scotch Lamb</Statement>
+            <Statement Id="56">Specially Selected Scotch Pork</Statement>
+            <Statement Id="2">St. Andrew Flag (Scotland)</Statement>
+            <Statement Id="1">St. George Flag (England)</Statement>
+            <Statement Id="1819">Stilton Cheese Makers Association</Statement>
+            <Statement Id="13">Switzerland Flag</Statement>
+            <Statement Id="63">Taste of NI</Statement>
+            <Statement Id="1815">THR Certification Mark</Statement>
+            <Statement Id="38">Traditional Speciality Guaranteed</Statement>
+            <Statement Id="4">Union Flag</Statement>
+            <Statement Id="12">USA Flag</Statement>
+            <Statement Id="215">Vegetarian Society Approved</Statement>
+            <Statement Id="235">Welsh Beef (Cig Eidion Cymru)</Statement>
+            <Statement Id="3">Welsh Flag (Dragon)</Statement>
+            <Statement Id="234">Welsh Lamb (Cig Oen Cymru)</Statement>
+            <Statement Id="208">WWF (World Wildlife Federation)</Statement>
+            <Statement Id="1759">Klasa</Statement>
+            <Statement Id="1760">BIO</Statement>
+            <Statement Id="1761">Kontrolované ekologické zemědělství</Statement>
+            <Statement Id="1762">Czech made</Statement>
+            <Statement Id="1763">Český výrobek</Statement>
+            <Statement Id="1764">Český výrobek (nadační fond)</Statement>
+            <Statement Id="1765">ČSN-TEST</Statement>
+            <Statement Id="1766">Ekologicky šetrný výrobek</Statement>
+            <Statement Id="1767">Bezpečné hračky</Statement>
+            <Statement Id="1823">Halal-certified Local 'JAKIM'</Statement>
+            <Statement Id="1824">Halal-certified Diimport Halal</Statement>
+            <Statement Id="1829">Hazai Feldolgozású Termék</Statement>
+            <Statement Id="1830">Hazai Termék</Statement>
+            <Statement Id="1831">Kiváló magyar élelmiszer</Statement>
+            <Statement Id="1832">Magyar Termék</Statement>
+            <Statement Id="1833">Guaranteed Irish</Statement>
+            <Statement Id="1890">Production Permit (China)</Statement>
+            <Statement Id="1891">Organic Food Certification (China)</Statement>
+            <Statement Id="1932">Ecological</Statement>
+            <Statement Id="1933">Biological</Statement>
+            <Statement Id="1934">MSC</Statement>
+            <Statement Id="1935">ASC</Statement>
+            <Statement Id="1936">Ecolabel</Statement>
+            <Statement Id="1941">UTZ</Statement>
+            <Statement Id="1942">Fair trade/Max Havelaar</Statement>
+            <Statement Id="1943">Rainforest Alliance</Statement>
+            <Statement Id="1946">FSC</Statement>
+            <Statement Id="1947">PEFC</Statement>
+            <Statement Id="1948">IMO </Statement>
+            <Statement Id="1949">Fair for Life</Statement>
+            <Statement Id="1950">Fair produce </Statement>
+            <Statement Id="1951">Global Gap</Statement>
+            <Statement Id="1952">Willem &amp; Drees</Statement>
+            <Statement Id="1953">Demeter International</Statement>
+            <Statement Id="1955">ETI</Statement>
+            <Statement Id="1957">BSCI</Statement>
+            <Statement Id="2009">Red Label</Statement>
+            <Statement Id="2018">Scharrel Rundvlees</Statement>
+            <Statement Id="2019">Scharrel Kippenvlees</Statement>
+            <Statement Id="2020">Scharrel Varkensvlees</Statement>
+            <Statement Id="2021">Erkend Streek Product</Statement>
+            <Statement Id="2022">CPE Controle Scharrel</Statement>
+            <Statement Id="2023">CPE Controle Vrije Uitloop</Statement>
+            <Statement Id="2024">IKB Eieren</Statement>
+            <Statement Id="2025">IKB Kip</Statement>
+            <Statement Id="2026">IKB Varken</Statement>
+            <Statement Id="2027">France Limousin</Statement>
+            <Statement Id="2028">Vegan Society</Statement>
+            <Statement Id="2029">Halal Correct</Statement>
+            <Statement Id="2030">Halal Plus</Statement>
+            <Statement Id="2031">Dolphin Safe</Statement>
+            <Statement Id="2032">Gluten Free</Statement>
+            <Statement Id="2033">Milk Free</Statement>
+            <Statement Id="2034">EKO</Statement>
+          </Statements>
+          <Statements Id="2" Name="Lifestyle">
+            <Statement Id="64">Dietetic</Statement>
+            <Statement Id="65">Halal</Statement>
+            <Statement Id="66">Kosher</Statement>
+            <Statement Id="67">Organic</Statement>
+            <Statement Id="68">Suitable for Vegans</Statement>
+            <Statement Id="69">Suitable for Vegetarians</Statement>
+            <Statement Id="70">Free From Pork</Statement>
+            <Statement Id="71">Free From Beef</Statement>
+            <Statement Id="72">Suitable for Diabetics</Statement>
+            <Statement Id="73">Not Tested on Animals</Statement>
+            <Statement Id="74">No Added Salt</Statement>
+            <Statement Id="75">No Added Sugar</Statement>
+            <Statement Id="198">Suitable for Coeliacs</Statement>
+            <Statement Id="1794">Suitable for Sufferers of Lactose Intolerance</Statement>
+          </Statements>
+          <Memo Id="3" Name="Other Information" xml:space="preserve">Factual information about the product which doesn't have its own field, this includes GDA Information / recycling etc.
+Example - Per bar Calories 123 6% GDA*
+*GDA = Guideline Daily Amount for an adult based on an average daily diet of 2000 kcal. The nutritional needs of individuals may be higher or lower, based on gender, age, level of physical activity and other factors.</Memo>
+          <NameLookups Id="4" Name="Allergy Advice">
+            <NameValue>
+              <Name Id="103">Carrot</Name>
+              <Value Id="1">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="104">Celeriac</Name>
+              <Value Id="2">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="105">Celery</Name>
+              <Value Id="3">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="106">Cereals Containing Gluten</Name>
+              <Value Id="1">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="162">Barley</Name>
+              <Value Id="2">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="166">Gluten</Name>
+              <Value Id="3">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="165">Kamut</Name>
+              <Value Id="1">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="163">Oats</Name>
+              <Value Id="2">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="164">Spelt</Name>
+              <Value Id="3">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="129">Wheat</Name>
+              <Value Id="1">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="107">Cocoa</Name>
+              <Value Id="2">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="108">Coconut</Name>
+              <Value Id="3">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="109">Coriander</Name>
+              <Value Id="1">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="110">Corn (Maize)</Name>
+              <Value Id="2">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="111">Crustaceans</Name>
+              <Value Id="3">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="112">Eggs</Name>
+              <Value Id="3">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="113">Fish</Name>
+              <Value Id="2">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="114">Lactose</Name>
+              <Value Id="3">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="115">Lupin</Name>
+              <Value Id="1">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="116">Milk</Name>
+              <Value Id="2">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="201">Dairy</Name>
+              <Value Id="3">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="117">Molluscs</Name>
+              <Value Id="1">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="118">Mustard</Name>
+              <Value Id="2">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="119">Nuts</Name>
+              <Value Id="3">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="167">Almonds</Name>
+              <Value Id="1">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="168">Brazil Nuts</Name>
+              <Value Id="2">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="169">Cashew Nuts</Name>
+              <Value Id="3">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="170">Hazelnuts</Name>
+              <Value Id="1">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="120">Peanuts</Name>
+              <Value Id="2">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="171">Pecan Nuts</Name>
+              <Value Id="3">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="121">Pine Nuts &amp; Pine Kernels</Name>
+              <Value Id="1">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="172">Pistachio Nuts</Name>
+              <Value Id="2">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="173">Walnuts</Name>
+              <Value Id="3">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="122">Pod Fruits</Name>
+              <Value Id="1">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="123">Rye</Name>
+              <Value Id="2">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="124">Seafood</Name>
+              <Value Id="3">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="125">Sesame Seeds</Name>
+              <Value Id="1">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="126">Shellfish</Name>
+              <Value Id="2">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="127">Soya\Soybeans</Name>
+              <Value Id="3">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="128">Sulphur Dioxide/Sulphites</Name>
+              <Value Id="1">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1793">Tree Nuts</Name>
+              <Value Id="2">May Contain</Value>
+            </NameValue>
+          </NameLookups>
+          <NameLookups Id="5" Name="Additives">
+            <NameValue>
+              <Name Id="130">BHA/BHT (antioxidants)</Name>
+              <Value Id="4">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="131">AZO Colours</Name>
+              <Value Id="5">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="132">MSG (Glutamate)</Name>
+              <Value Id="6">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="133">Benzoate</Name>
+              <Value Id="4">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="134">Additives</Name>
+              <Value Id="5">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="135">Aspartame</Name>
+              <Value Id="6">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="136">Yeast</Name>
+              <Value Id="4">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="137">Genetically Modified Ingredients</Name>
+              <Value Id="5">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="138">Artificial Colours</Name>
+              <Value Id="6">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="139">Artificial Sweeteners</Name>
+              <Value Id="4">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="140">Artificial Flavours</Name>
+              <Value Id="5">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="141">Artificial Preservatives</Name>
+              <Value Id="6">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="142">Tartrazine</Name>
+              <Value Id="4">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="143">HVP (Hydrolised Vegetable Protein)</Name>
+              <Value Id="5">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="144">Sucrose</Name>
+              <Value Id="6">Free From</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1790">GM Protein/DNA</Name>
+              <Value Id="4">Contains</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1791">Artificial Antioxidants</Name>
+              <Value Id="5">May Contain</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1792">Flavour Enhancers</Name>
+              <Value Id="6">Free From</Value>
+            </NameValue>
+          </NameLookups>
+          <NameTextItems Id="6" Name="Nappy Size">
+            <NameText>
+              <Name Id="146">Nappy Size (age)</Name>
+              <Text xml:space="preserve">12mths-18mths</Text>
+            </NameText>
+            <NameText>
+              <Name Id="147">Nappy Size (weight)</Name>
+              <Text xml:space="preserve">6kg-12kg</Text>
+            </NameText>
+          </NameTextItems>
+          <NameTextLookups Id="7" Name="Cooking Guidelines">
+            <NameValueText>
+              <Name Id="207">Cooking Instructions</Name>
+              <Value Id="331">General</Value>
+              <Text xml:space="preserve">General Information explaining how the product should be cooked
+Example - For best results cook from frozen.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="145">Oven cook</Name>
+              <Value Id="10772">From Ambient</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in the Oven from Ambient
+Example - Pre-heat the oven.
+200°C / 400°F / Gas 6 12-14 mins.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="145">Oven cook</Name>
+              <Value Id="10773">From Chilled</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in the Oven from Chilled
+Example - Pre-heat the oven.
+200°C / 400°F / Gas 6 12-14 mins.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="145">Oven cook</Name>
+              <Value Id="7">From Frozen</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in the Oven from Frozen
+Example - Pre-heat the oven.
+200°C / 400°F / Gas 6 22-24 mins.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="151">Microwave</Name>
+              <Value Id="10772">From Ambient</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in the Microwave from Ambient
+Example - Empty contents into a microwaveable container and cover. Heat on full power for 1 1/2 minutes. Stir, then heat for a further 1 minute.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="151">Microwave</Name>
+              <Value Id="10773">From Chilled</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in the Microwave from Chilled
+Example - Empty contents into a microwaveable container and cover. Heat on full power for 1 1/2 minutes. Stir, then heat for a further 1 minute.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="151">Microwave</Name>
+              <Value Id="7">From Frozen</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in the Microwave from Frozen
+Example - Empty contents into a microwaveable container and cover. Heat on full power for 1 1/2 minutes. Stir, then heat for a further 1 minute.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="152">Grill</Name>
+              <Value Id="7">From Frozen</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in the Grill from Frozen
+Example - Place under grill on a medium heat for 10-12 minutes, turning burger during cooking.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="152">Grill</Name>
+              <Value Id="10772">From Ambient</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in the Grill from Ambient
+Example - Place under grill on a medium heat for 10-12 minutes, turning burger during cooking.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="152">Grill</Name>
+              <Value Id="331">General</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in the Grill from Chilled
+Example - Place under grill on a medium heat for 10-12 minutes, turning burger during cooking.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="153">Barbecue</Name>
+              <Value Id="7">From Frozen</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked on the BBQ from Frozen
+Example - Always wait for the flames to die down and the coals to turn white before cooking. Remove all packaging. Place burger on barbecue and cook on a medium heat for approximately 10 minutes turning burger frequently to prevent burning.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="153">Barbecue</Name>
+              <Value Id="10772">From Ambient</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked on the BBQ from Ambient
+Example - Always wait for the flames to die down and the coals to turn white before cooking. Remove all packaging. Place burger on barbecue and cook on a medium heat for approximately 10 minutes turning burger frequently to prevent burning.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="153">Barbecue</Name>
+              <Value Id="10773">From Chilled</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked on the BBQ from Chilled
+Example - Always wait for the flames to die down and the coals to turn white before cooking. Remove all packaging. Place burger on barbecue and cook on a medium heat for approximately 10 minutes turning burger frequently to prevent burning.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="154">Shallow Fry</Name>
+              <Value Id="7">From Frozen</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in a frying pan from Frozen
+Example - Remove all packaging. Add a little oil to a hot frying pan. Fry on a medium heat for 8-10 minutes, turning burger during cooking.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="154">Shallow Fry</Name>
+              <Value Id="10772">From Ambient</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in a frying pan from Ambient
+Example - Remove all packaging. Add a little oil to a hot frying pan. Fry on a medium heat for 8-10 minutes, turning burger during cooking.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="154">Shallow Fry</Name>
+              <Value Id="10773">From Chilled</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in a frying pan from Chilled
+Example - Remove all packaging. Add a little oil to a hot frying pan. Fry on a medium heat for 8-10 minutes, turning burger during cooking.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="155">Deep Fry</Name>
+              <Value Id="7">From Frozen</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in a deep fat frier from Frozen
+Example - Preheat the oil to 175°C.
+Fry small quantities at a time for approximately 3-4 minutes, or until golden.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="155">Deep Fry</Name>
+              <Value Id="10772">From Ambient</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in a deep fat frier from Ambient
+Example - Preheat the oil to 175°C.
+Fry small quantities at a time for approximately 3-4 minutes, or until golden.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="155">Deep Fry</Name>
+              <Value Id="10773">From Chilled</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in a deep fat frier from Chilled
+Example - Preheat the oil to 175°C.
+Fry small quantities at a time for approximately 3-4 minutes, or until golden.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="156">Stir Fry</Name>
+              <Value Id="7">From Frozen</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in a Stir Fry from Frozen
+Example - Heat up frying pan, stir fry marinated chicken until fragrant, and simmer for 15-20 minutes. Stir occasionally and add water if necessary until chicken becomes tender.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="156">Stir Fry</Name>
+              <Value Id="10772">From Ambient</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in a Stir Fry from Ambient
+Example - Heat up frying pan, stir fry marinated chicken until fragrant, and simmer for 15-20 minutes. Stir occasionally and add water if necessary until chicken becomes tender.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="156">Stir Fry</Name>
+              <Value Id="10773">From Chilled</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in a Stir Fry from Chilled
+Example - Heat up frying pan, stir fry marinated chicken until fragrant, and simmer for 15-20 minutes. Stir occasionally and add water if necessary until chicken becomes tender.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="157">Steam</Name>
+              <Value Id="7">From Frozen</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in a Steamer from Frozen
+Example - Steam for 5 minutes.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="157">Steam</Name>
+              <Value Id="10772">From Ambient</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in a Steamer from Ambient
+Example - Steam for 5 minutes.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="157">Steam</Name>
+              <Value Id="10773">From Chilled</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked in a Steamer from Chilled
+Example - Steam for 5 minutes.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="158">Poach</Name>
+              <Value Id="7">From Frozen</Value>
+              <Text xml:space="preserve">Information explaining how the product should be poached from Frozen
+Example - Crack Egg into centre of a saucepan of boiling water. Leave to cook for 2 minutes.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="158">Poach</Name>
+              <Value Id="10772">From Ambient</Value>
+              <Text xml:space="preserve">Information explaining how the product should be poached from Ambient
+Example - Crack Egg into centre of a saucepan of boiling water. Leave to cook for 2 minutes.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="158">Poach</Name>
+              <Value Id="10773">From Chilled</Value>
+              <Text xml:space="preserve">Information explaining how the product should be poached from Chilled
+Example - Crack Egg into centre of a saucepan of boiling water. Leave to cook for 2 minutes.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="159">Hob</Name>
+              <Value Id="7">From Frozen</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked on the Hob from Frozen
+Example - Empty contents into a saucepan and stir gently while heating. Do not boil or overcook as this will impair the flavour.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="159">Hob</Name>
+              <Value Id="10772">From Ambient</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked on the Hob from Ambient
+Example - Empty contents into a saucepan and stir gently while heating. Do not boil or overcook as this will impair the flavour.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="159">Hob</Name>
+              <Value Id="10773">From Chilled</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked on the Hob from Chilled
+Example - Empty contents into a saucepan and stir gently while heating. Do not boil or overcook as this will impair the flavour.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="160">Boil in the Bag</Name>
+              <Value Id="7">From Frozen</Value>
+              <Text xml:space="preserve">Information explaining how the product should be Boil in the Bag from Frozen
+Example - 1. Bring a large amount of water to the boil.
+2. Add bag (and salt if required) and simmer for 10 mins.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="160">Boil in the Bag</Name>
+              <Value Id="10772">From Ambient</Value>
+              <Text xml:space="preserve">Information explaining how the product should be Boil in the Bag from Ambient
+Example - 1. Bring a large amount of water to the boil.
+2. Add bag (and salt if required) and simmer for 10 mins.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="160">Boil in the Bag</Name>
+              <Value Id="10773">From Chilled</Value>
+              <Text xml:space="preserve">Information explaining how the product should be Boil in the Bag from Chilled
+Example - 1. Bring a large amount of water to the boil.
+2. Add bag (and salt if required) and simmer for 10 mins.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="161">Other</Name>
+              <Value Id="7">From Frozen</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked if none of the Above are appropriate from Frozen.
+Example - Get a cooler large enough to comfortably hold the amount of shucked corn you are going to make. Cover the corn with boiling water. Close lid. Open 30 minutes later to perfectly cooked corn.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="161">Other</Name>
+              <Value Id="10772">From Ambient</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked if none of the Above are appropriate from 
+Example - Get a cooler large enough to comfortably hold the amount of shucked corn you are going to make. Cover the corn with boiling water. Close lid. Open 30 minutes later to perfectly cooked corn.</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="161">Other</Name>
+              <Value Id="10773">From Chilled</Value>
+              <Text xml:space="preserve">Information explaining how the product should be cooked if none of the Above are appropriate from
+Example - Get a cooler large enough to comfortably hold the amount of shucked corn you are going to make. Cover the corn with boiling water. Close lid. Open 30 minutes later to perfectly cooked corn.</Text>
+            </NameValueText>
+          </NameTextLookups>
+          <NameTextItems Id="8" Name="Nut Statement">
+            <NameText>
+              <Name Id="148">Recipe</Name>
+              <Text xml:space="preserve">Can not guarantee nut free</Text>
+            </NameText>
+            <NameText>
+              <Name Id="149">Ingredients</Name>
+              <Text xml:space="preserve">Can not guarantee nut free</Text>
+            </NameText>
+            <NameText>
+              <Name Id="150">Factory</Name>
+              <Text xml:space="preserve">Made on a production line which has previously used nuts</Text>
+            </NameText>
+          </NameTextItems>
+          <Statements Id="10" Name="Storage and Usage Statements">
+            <Statement Id="174">Suitable for Home Freezing</Statement>
+            <Statement Id="202">Not Suitable for Home Freezing</Statement>
+            <Statement Id="203">Do Not Freeze</Statement>
+            <Statement Id="175">Cannot be Microwaved</Statement>
+            <Statement Id="176">Cannot be cooked from Frozen</Statement>
+            <Statement Id="204">Keep Frozen</Statement>
+            <Statement Id="205">Keep Refrigerated</Statement>
+            <Statement Id="206">Keep Flat</Statement>
+          </Statements>
+          <NameLookups Id="11" Name="Recycling Info">
+            <NameValue>
+              <Name Id="1837">Aerosol</Name>
+              <Value Id="9">Recyclable</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1838">Bag</Name>
+              <Value Id="10">Not Recyclable</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1839">Band</Name>
+              <Value Id="35156">Glass - Widely Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1840">Base</Name>
+              <Value Id="35157">Glass - Check Local Recycling</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1841">Blister</Name>
+              <Value Id="35158">Glass - Not Currently Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1842">Booklet</Name>
+              <Value Id="35159">Metal - Widely Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1843">Bottle</Name>
+              <Value Id="35161">Metal - Not Currently Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1844">Box</Name>
+              <Value Id="35161">Metal - Not Currently Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="180">Carton</Name>
+              <Value Id="35162">Paper - Widely Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1845">Can</Name>
+              <Value Id="35163">Paper - Check Local Recycling</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1846">Cap</Name>
+              <Value Id="35164">Paper - Not Currently Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1847">Card</Name>
+              <Value Id="35165">Card - Widely Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1848">Clip</Name>
+              <Value Id="35166">Card - Check Local Recycling</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1849">Closure</Name>
+              <Value Id="35167">Card - Not Currently Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1850">Collar</Name>
+              <Value Id="35168">Plastic - Widely Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1851">Cover</Name>
+              <Value Id="35169">Plastic - Check Local Recycling</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1852">Cup</Name>
+              <Value Id="35170">Plastic - Not Currently Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="199">Film</Name>
+              <Value Id="35171">Degradable &amp; compostable - Widely Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1853">Foil</Name>
+              <Value Id="35172">Degradable &amp; compostable - Check Local Recycling</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1854">Handle/Hook</Name>
+              <Value Id="35173">Degradable &amp; compostable - Not Currently Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1855">Insert</Name>
+              <Value Id="35174">Mixed Material - Widely Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1856">Jar</Name>
+              <Value Id="35175">Mixed Material - Check Local Recycling</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1857">Label - loose</Name>
+              <Value Id="35176">Mixed Material - Not Currently Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1858">Label - glued</Name>
+              <Value Id="35177">Plastic - Recycle with carrier bags at larger stores - Not at Kerbside</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1859">Leaflet</Name>
+              <Value Id="35178">Recycle with carrier bags at larger stores - Not at Kerbside</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1860">Lid</Name>
+              <Value Id="35179">Widely Recycled at recycling points - check locally for Kerbside</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1861">Net</Name>
+              <Value Id="9">Recyclable</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1862">Pad</Name>
+              <Value Id="10">Not Recyclable</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1863">Packing</Name>
+              <Value Id="35156">Glass - Widely Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1864">Paint cans</Name>
+              <Value Id="35157">Glass - Check Local Recycling</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1865">Pot</Name>
+              <Value Id="35158">Glass - Not Currently Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1866">Pouch</Name>
+              <Value Id="35159">Metal - Widely Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1867">Pump</Name>
+              <Value Id="35163">Paper - Check Local Recycling</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1868">Sachet</Name>
+              <Value Id="35164">Paper - Not Currently Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="178">Sleeve</Name>
+              <Value Id="35163">Paper - Check Local Recycling</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1869">Tag</Name>
+              <Value Id="35165">Card - Widely Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1870">Tape</Name>
+              <Value Id="35170">Plastic - Not Currently Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1871">Tin</Name>
+              <Value Id="35173">Degradable &amp; compostable - Not Currently Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1872">Tissue</Name>
+              <Value Id="35175">Mixed Material - Check Local Recycling</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="200">Tray</Name>
+              <Value Id="35164">Paper - Not Currently Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1873">Trigger</Name>
+              <Value Id="35166">Card - Check Local Recycling</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1874">Tub</Name>
+              <Value Id="35174">Mixed Material - Widely Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1875">Tube</Name>
+              <Value Id="35159">Metal - Widely Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1876">Window</Name>
+              <Value Id="35174">Mixed Material - Widely Recycled</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1877">Wrap</Name>
+              <Value Id="35167">Card - Not Currently Recycled</Value>
+            </NameValue>
+          </NameLookups>
+          <LongTextItems Id="12" Name="Allergy Other Text">
+            <Text xml:space="preserve">A standardised list of allergens with drop-down menus that indicate whether the product contains, may contain or is free from a given allergen</Text>
+            <Text xml:space="preserve">Any information relating to the Allergy fields which can't be captured in the defined fields Example - May contain traces of Nuts</Text>
+          </LongTextItems>
+          <LongTextItems Id="13" Name="Additives Other Text">
+            <Text xml:space="preserve">A standardised list of additives with drop-down menus that indicate whether the product contains, may contain or is free from a given additive</Text>
+            <Text xml:space="preserve">Any information relating to the Additives fields which can't be captured in the defined fields - Example: Contains natural preservatives</Text>
+          </LongTextItems>
+          <LongTextItems Id="14" Name="Lifestyle Other Text">
+            <Text xml:space="preserve">Standardised statements relating to the lifestyle implications of a product</Text>
+            <Text xml:space="preserve">Any information relating to the Lifestyle fields which can't be captured in the defined fields - example Not suitable for vegetarians</Text>
+          </LongTextItems>
+          <Memo Id="15" Name="Manufacturers Address" xml:space="preserve">The address of the product's manufacturer
+Example - 
+Ferrero UK Ltd,
+7 Croxley Green Business Park,
+Herts.,
+WD18 8PA,
+UK.</Memo>
+          <NameTextItems Id="16" Name="Dimension">
+            <NameText>
+              <Name Id="183">Shelf Height</Name>
+              <Text xml:space="preserve">149</Text>
+            </NameText>
+            <NameText>
+              <Name Id="184">Shelf Width</Name>
+              <Text xml:space="preserve">8</Text>
+            </NameText>
+            <NameText>
+              <Name Id="185">Shelf Depth</Name>
+              <Text xml:space="preserve">27</Text>
+            </NameText>
+          </NameTextItems>
+          <Memo Id="19" Name="Preparation and Usage" xml:space="preserve">Information about how to use the product
+Example - Directions For Use: Shake well before use.</Memo>
+          <Memo Id="20" Name="Storage" xml:space="preserve">Information about how the product should be stored
+Example - Store in a cool dry place.</Memo>
+          <Memo Id="21" Name="Further Description" xml:space="preserve">Marketing information on the product which is less desired by retailers, such as websites and competitions
+Example - For more information visit: www.ferrero.co.uk</Memo>
+          <NameLookups Id="23" Name="Country">
+            <NameValue>
+              <Name Id="195">Country of Origin</Name>
+              <Value Id="26" Code="AD">Andorra</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="196">Packed In</Name>
+              <Value Id="36" Code="AZ">Azerbaijan</Value>
+            </NameValue>
+          </NameLookups>
+          <NameTextLookups Id="24" Name="Lower Age Limit">
+            <NameValueText>
+              <Name Id="188">Advisory</Name>
+              <Value Id="268">Years</Value>
+              <Text xml:space="preserve">1</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="189">Statutory</Name>
+              <Value Id="268">Years</Value>
+              <Text xml:space="preserve">3</Text>
+            </NameValueText>
+          </NameTextLookups>
+          <LongTextItems Id="25" Name="Brand">
+            <Text xml:space="preserve">Kinder</Text>
+          </LongTextItems>
+          <Memo Id="26" Name="Return To" xml:space="preserve">The address to which the product can be returned along with carelines, email addresses, general aftercare information
+Example -
+Ferrero UK Ltd,
+7 Croxley Green Business Park,
+Herts.,
+WD18 8PA,
+UK.</Memo>
+          <NameLookups Id="27" Name="Storage Type">
+            <NameValue>
+              <Name Id="190">Type</Name>
+              <Value Id="271">Ambient</Value>
+            </NameValue>
+          </NameLookups>
+          <NameTextItems Id="28" Name="Storage Conditions">
+            <NameText>
+              <Name Id="191">Min Temp °C</Name>
+              <Text xml:space="preserve">10</Text>
+            </NameText>
+            <NameText>
+              <Name Id="192">Max Temp °C</Name>
+              <Text xml:space="preserve">15</Text>
+            </NameText>
+            <NameText>
+              <Name Id="193">Min Humidity %</Name>
+              <Text xml:space="preserve">55</Text>
+            </NameText>
+            <NameText>
+              <Name Id="194">Max Humidity %</Name>
+              <Text xml:space="preserve">95</Text>
+            </NameText>
+          </NameTextItems>
+          <NameLookups Id="29" Name="Pack Type">
+            <NameValue>
+              <Name Id="197">Type</Name>
+              <Value Id="299">Heat Sealed</Value>
+            </NameValue>
+          </NameLookups>
+          <Statements Id="30" Name="Promotional Pack Type">
+            <Statement Id="1172">Promotion left on pack</Statement>
+            <Statement Id="216">Extra Fill</Statement>
+            <Statement Id="217">Price Mark</Statement>
+            <Statement Id="218">Pack Promotion</Statement>
+          </Statements>
+          <NameTextItems Id="31" Name="Pharmacy">
+            <NameText>
+              <Name Id="219">Product License No</Name>
+              <Text xml:space="preserve">PL 00039/0737</Text>
+            </NameText>
+            <NameText>
+              <Name Id="220">P-Med</Name>
+              <Text xml:space="preserve">True</Text>
+            </NameText>
+            <NameText>
+              <Name Id="221">PIL Revision Text</Name>
+              <Text xml:space="preserve">Revision date: June 2009</Text>
+            </NameText>
+          </NameTextItems>
+          <LongTextItems Id="32" Name="Features">
+            <Text xml:space="preserve">Statements under 15 words which are designed to indicate the USPs of the product to the consumer</Text>
+            <Text xml:space="preserve">Example - No artificial colours or flavours</Text>
+          </LongTextItems>
+          <NameLookups Id="33" Name="Standardised Brand">
+            <NameValue>
+              <Name Id="224">Brand</Name>
+              <Value Id="3263">Kinder</Value>
+            </NameValue>
+          </NameLookups>
+          <NameTextItems Id="34" Name="Weight">
+            <NameText>
+              <Name Id="227">Gross Weight</Name>
+              <Text xml:space="preserve">197</Text>
+            </NameText>
+          </NameTextItems>
+          <Memo Id="35" Name="Product Marketing" xml:space="preserve">Large areas of marketing information relating to the product itself
+Example - Milk chocolate covered wafer with smooth milky and hazelnut filling.</Memo>
+          <Memo Id="36" Name="Brand Marketing" xml:space="preserve">Large areas of marketing information relating to the brand. 
+Example - Have you tried the other Kinder products within our range?</Memo>
+          <Memo Id="37" Name="Manufacturer Marketing" xml:space="preserve">Large areas of marketing information relating to the manufacturer of the product
+Example - All Ferrero products are Organic and Fairtrade where possible, and are striving to find Fairtrade alternatives to all ingredients.</Memo>
+          <LongTextItems Id="40" Name="Box Contents">
+            <Text xml:space="preserve">Field that allows us to capture the contents of a product with various different components (as opposed to a multipack with several identical units)</Text>
+            <Text xml:space="preserve">Example - 1 x Instruction Manual</Text>
+          </LongTextItems>
+          <Memo Id="52" Name="Safety Warning" xml:space="preserve">Information about how not to use the product / general safety guidelines / standard warnings (e.g. IRRITANT)
+Example - Extremely Flammable
+</Memo>
+          <NameLookups Id="65" Name="Product Language">
+            <NameValue>
+              <Name Id="923">Primary Description Language</Name>
+              <Value Id="11654" Code="en">English</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="924">Data Language</Name>
+              <Value Id="11654" Code="en">English</Value>
+            </NameValue>
+          </NameLookups>
+          <NameTextItems Id="66" Name="Number of Units">
+            <NameText>
+              <Name Id="925">Number of Units</Name>
+              <Text xml:space="preserve">4</Text>
+            </NameText>
+          </NameTextItems>
+          <LongTextItems Id="67" Name="Unit Type">
+            <Text xml:space="preserve">43g Twin Bars</Text>
+          </LongTextItems>
+          <NameTextItems Id="68" Name="Numeric Size">
+            <NameText>
+              <Name Id="926">Numeric Size</Name>
+              <Text xml:space="preserve">100</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1879">Drained Weight</Name>
+              <Text xml:space="preserve">50</Text>
+            </NameText>
+          </NameTextItems>
+          <NameLookups Id="69" Name="Unit (specific)">
+            <NameValue>
+              <Name Id="927">Unit (specific)</Name>
+              <Value Id="12570" Code="g">Grams</Value>
+            </NameValue>
+          </NameLookups>
+          <LongTextItems Id="70" Name="Pack Size">
+            <Text xml:space="preserve">100</Text>
+          </LongTextItems>
+          <LongTextItems Id="71" Name="Unit (free text)">
+            <Text xml:space="preserve">g</Text>
+          </LongTextItems>
+          <Statements Id="72" Name="Average Measure">
+            <Statement Id="928">Average Measure (e)</Statement>
+            <Statement Id="1880">Drained Weight Average Measure (e)</Statement>
+          </Statements>
+          <NameLookups Id="73" Name="Alcohol Type">
+            <NameValue>
+              <Name Id="929">Type</Name>
+              <Value Id="12762" Code="B">Beer</Value>
+            </NameValue>
+          </NameLookups>
+          <NameTextItems Id="74" Name="General Alcohol Data">
+            <NameText>
+              <Name Id="930">Alcohol By Volume</Name>
+              <Text xml:space="preserve">12.5</Text>
+            </NameText>
+            <NameText>
+              <Name Id="931">Units</Name>
+              <Text xml:space="preserve">9.3</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1809">Beer Degree (Plato Scale)</Name>
+              <Text xml:space="preserve">5</Text>
+            </NameText>
+            <NameText>
+              <Name Id="932">Taste Category</Name>
+              <Text xml:space="preserve">C</Text>
+            </NameText>
+            <NameText>
+              <Name Id="933">Tasting Notes</Name>
+              <Text xml:space="preserve">A lively vibrant red with juicy flavours of plums and red berry fruit</Text>
+            </NameText>
+            <NameText>
+              <Name Id="934">Serving Suggestion</Name>
+              <Text xml:space="preserve">Serve with beef</Text>
+            </NameText>
+          </NameTextItems>
+          <NameLookups Id="75" Name="Region of Origin">
+            <NameValue>
+              <Name Id="935">Region of Origin</Name>
+              <Value Id="12780" Code="FR01">Bordeaux</Value>
+            </NameValue>
+          </NameLookups>
+          <NameTextItems Id="76" Name="Wine Alcohol Data">
+            <NameText>
+              <Name Id="936">Current Vintage</Name>
+              <Text xml:space="preserve">2011</Text>
+            </NameText>
+            <NameText>
+              <Name Id="940">Producer</Name>
+              <Text xml:space="preserve">Gabriel Meffre</Text>
+            </NameText>
+            <NameText>
+              <Name Id="941">Legal Designation</Name>
+              <Text xml:space="preserve">Quebec</Text>
+            </NameText>
+            <NameText>
+              <Name Id="942">Grape Variety</Name>
+              <Text xml:space="preserve">Grenache Gris, Shiraz/Syrah</Text>
+            </NameText>
+            <NameText>
+              <Name Id="943">Blend</Name>
+              <Text xml:space="preserve">Grenache and other grapes</Text>
+            </NameText>
+            <NameText>
+              <Name Id="945">Winemaker</Name>
+              <Text xml:space="preserve">Veronique Torcolacci</Text>
+            </NameText>
+            <NameText>
+              <Name Id="946">Agent</Name>
+              <Text xml:space="preserve">Guy Anderson Wines</Text>
+            </NameText>
+            <NameText>
+              <Name Id="947">Vinification Details</Name>
+              <Text xml:space="preserve">Each grape variety is vinified separately with the aim to extract its individual character and aromas. Fermentation is at a high temperature of between 28-30°c and the grape skin cap is pumped over twice a day in order to maximise the extraction of the different components. 35% of the blend is matured in oak barrels for 8 months in order to provide rich aromas, balance and structure. Older barrels of 2-3 years were chosen over newer oak to soften tannins.</Text>
+            </NameText>
+            <NameText>
+              <Name Id="948">History</Name>
+              <Text xml:space="preserve">Gabriel Meffre is based in Gigondas in the heart of the Rhône Valley. One of the largest negociants in the Rhône, it buys in wine from around the region, as well as from its own estates, and is well-known in both France and export markets as a source of quality wines. In recent years, Gabriel Meffre has successfully developed La Châsse range of wines from the Rhône Valley and neighbouring Languedoc.</Text>
+            </NameText>
+            <NameText>
+              <Name Id="949">Regional Information</Name>
+              <Text xml:space="preserve">A true classic French wine that is one of the best selling brands in the UK. The wine is carefully selected from some of the best terroirs of the Côtes du Rhône appellation. The winemaking team blend the various wines to deliver a consistent wine that communicates the wonderful character and typicity of the region.</Text>
+            </NameText>
+          </NameTextItems>
+          <NameLookups Id="77" Name="Wine Colour">
+            <NameValue>
+              <Name Id="937">Colour</Name>
+              <Value Id="12890">Red</Value>
+            </NameValue>
+          </NameLookups>
+          <Statements Id="78" Name="Wine Effervescence">
+            <Statement Id="938">Sparkling</Statement>
+          </Statements>
+          <NameLookups Id="79" Name="Defined Area">
+            <NameValue>
+              <Name Id="939">Defined Area</Name>
+              <Value Id="12905" Code="NZ0101">Bay of Plenty</Value>
+            </NameValue>
+          </NameLookups>
+          <NameLookups Id="80" Name="Type of Closure">
+            <NameValue>
+              <Name Id="944">Type of Closure</Name>
+              <Value Id="13107" Code="4">Synthetic Cork: Supreme</Value>
+            </NameValue>
+          </NameLookups>
+          <NameLookups Id="81" Name="Recommended Storage">
+            <NameValue>
+              <Name Id="950">Storage Type</Name>
+              <Value Id="13112" Code="3">This wine is ideal for drinking now but can be kept for up to &lt;&gt;</Value>
+            </NameValue>
+          </NameLookups>
+          <NameLookups Id="82" Name="Recommended Storage End Text">
+            <NameValue>
+              <Name Id="951">Closing Text</Name>
+              <Value Id="13119" Code="12">3 years</Value>
+            </NameValue>
+          </NameLookups>
+          <Statements Id="83" Name="Languages On Pack">
+            <Statement Id="957">Albanian</Statement>
+            <Statement Id="977">Bulgarian</Statement>
+            <Statement Id="980">Catalan</Statement>
+            <Statement Id="986">Chinese</Statement>
+            <Statement Id="994">Croatian</Statement>
+            <Statement Id="995">Czech</Statement>
+            <Statement Id="996">Danish</Statement>
+            <Statement Id="999">Dutch</Statement>
+            <Statement Id="1001">English</Statement>
+            <Statement Id="1003">Estonian</Statement>
+            <Statement Id="1007">Finnish</Statement>
+            <Statement Id="1008">Flemish</Statement>
+            <Statement Id="1009">French</Statement>
+            <Statement Id="1015">German</Statement>
+            <Statement Id="1017">Greek, Modern (1453-)</Statement>
+            <Statement Id="1028">Hungarian</Statement>
+            <Statement Id="1032">Indonesian</Statement>
+            <Statement Id="1037">Irish</Statement>
+            <Statement Id="1038">Italian</Statement>
+            <Statement Id="1039">Japanese</Statement>
+            <Statement Id="1051">Korean</Statement>
+            <Statement Id="1058">Latvian</Statement>
+            <Statement Id="1064">Lithuanian</Statement>
+            <Statement Id="1066">Luxembourgish</Statement>
+            <Statement Id="1067">Macedonian</Statement>
+            <Statement Id="1069">Malay</Statement>
+            <Statement Id="1072">Maltese</Statement>
+            <Statement Id="1078">Moldovan</Statement>
+            <Statement Id="1089">Norwegian</Statement>
+            <Statement Id="1109">Polish</Statement>
+            <Statement Id="1110">Portuguese</Statement>
+            <Statement Id="1114">Romanian</Statement>
+            <Statement Id="1117">Russian</Statement>
+            <Statement Id="1129">Slovak</Statement>
+            <Statement Id="1134">Spanish</Statement>
+            <Statement Id="1138">Swedish</Statement>
+            <Statement Id="1145">Thai</Statement>
+            <Statement Id="1151">Turkish</Statement>
+            <Statement Id="1164">Welsh</Statement>
+            <Statement Id="1173">Other</Statement>
+          </Statements>
+          <LongTextItems Id="84" Name="Ingredients" MimeType="text/html">
+            <Text xml:space="preserve"><![CDATA[The Ingredients of the product]]></Text>
+            <Text xml:space="preserve"><![CDATA[Milk Chocolate 31.5% (Sugar, Cocoa Butter, Cocoa Mass, <span style='font-weight: bold;'>Skimmed Milk Powder</span>, Concentrated Butter, Emulsifier: Lecithins (Soya); Vanillin)]]></Text>
+            <Text xml:space="preserve"><![CDATA[Sugar]]></Text>
+            <Text xml:space="preserve"><![CDATA[Vegetable Oil]]></Text>
+            <Text xml:space="preserve"><![CDATA[<span style='font-weight: bold;'>Wheat Flour</span>]]></Text>
+            <Text xml:space="preserve"><![CDATA[Hazelnuts (10.8%)]]></Text>
+            <Text xml:space="preserve"><![CDATA[Skimmed Milk Powder]]></Text>
+            <Text xml:space="preserve"><![CDATA[Whole Milk Powder]]></Text>
+            <Text xml:space="preserve"><![CDATA[Chocolate (Sugar, Cocoa Mass, Cocoa Butter, Emulsifier: Lecithins (Soya), Vanillin)]]></Text>
+            <Text xml:space="preserve"><![CDATA[Fat-Reduced Cocoa]]></Text>
+            <Text xml:space="preserve"><![CDATA[Emulsifier: Lecithins (Soya)]]></Text>
+            <Text xml:space="preserve"><![CDATA[Raising Agents (Sodium Hydrogen Carbonate, Ammonium Carbonate)]]></Text>
+            <Text xml:space="preserve"><![CDATA[Salt]]></Text>
+            <Text xml:space="preserve"><![CDATA[Vanillin]]></Text>
+            <Text xml:space="preserve"><![CDATA[Total Milk Solids: 19.5%]]></Text>
+          </LongTextItems>
+          <TextualNutrition Id="85" Name="Nutrition">
+            <Headings>
+              <Heading>per 100g</Heading>
+              <Heading>per bar (21.5g)</Heading>
+            </Headings>
+            <Nutrient>
+              <Name>Energy </Name>
+              <Values>
+                <Value>575kcal</Value>
+                <Value>123kJ</Value>
+              </Values>
+            </Nutrient>
+            <Nutrient>
+              <Name />
+              <Values>
+                <Value>2394kJ</Value>
+                <Value>513kJ</Value>
+              </Values>
+            </Nutrient>
+            <Nutrient>
+              <Name>Protein </Name>
+              <Values>
+                <Value>9.2g</Value>
+                <Value>2g</Value>
+              </Values>
+            </Nutrient>
+            <Nutrient>
+              <Name>Carbohydrate </Name>
+              <Values>
+                <Value>49.5g</Value>
+                <Value>10.6g</Value>
+              </Values>
+            </Nutrient>
+            <Nutrient>
+              <Name>of which sugars </Name>
+              <Values>
+                <Value>41.3g</Value>
+                <Value>8.9g</Value>
+              </Values>
+            </Nutrient>
+            <Nutrient>
+              <Name>Fat </Name>
+              <Values>
+                <Value>37.3g</Value>
+                <Value>8g</Value>
+              </Values>
+            </Nutrient>
+            <Nutrient>
+              <Name>of which saturates </Name>
+              <Values>
+                <Value>17.3g</Value>
+                <Value>3.7g</Value>
+              </Values>
+            </Nutrient>
+            <Nutrient>
+              <Name>Fibre </Name>
+              <Values>
+                <Value>2g</Value>
+                <Value>0.4g</Value>
+              </Values>
+            </Nutrient>
+            <Nutrient>
+              <Name>Sodium </Name>
+              <Values>
+                <Value>0.107g</Value>
+                <Value>0.023g</Value>
+              </Values>
+            </Nutrient>
+          </TextualNutrition>
+          <NumericNutrition Id="86" Name="Calculated Nutrition">
+            <Per100Unit>g</Per100Unit>
+            <Per100Heading>per 100</Per100Heading>
+            <PerServingHeading>per bar (21.5g)</PerServingHeading>
+            <NutrientValues Id="1182" Name="Energy (kJ)">
+              <Per100>
+                <Value>2394.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>513.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1183" Name="Energy (kcal)">
+              <Per100>
+                <Value>575.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>123.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1189" Name="Fat (g)">
+              <Per100>
+                <Value>37.30000</Value>
+              </Per100>
+              <PerServing>
+                <Value>8.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1190" Name=" of which saturates (g)">
+              <Per100>
+                <Value>17.30000</Value>
+              </Per100>
+              <PerServing>
+                <Value>3.70000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1191" Name=" of which mono-unsaturates (g)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1192" Name=" of which polyunsaturates (g)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="2035" Name=" of which trans (g)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1193" Name=" of which cholesterol (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1185" Name="Carbohydrate (g)">
+              <Per100>
+                <Value>49.50000</Value>
+              </Per100>
+              <PerServing>
+                <Value>10.60000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1186" Name=" of which sugars (g)">
+              <Per100>
+                <Value>41.30000</Value>
+              </Per100>
+              <PerServing>
+                <Value>8.90000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1187" Name=" of which polyols (g)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1188" Name=" of which starch (g)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1194" Name="Fibre (g)">
+              <Per100>
+                <Value>2.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>0.40000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1184" Name="Protein (g)">
+              <Per100>
+                <Value>9.20000</Value>
+              </Per100>
+              <PerServing>
+                <Value>2.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1214" Name="Salt (g)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1215" Name="Salt Equivalent (g)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1195" Name="Sodium (g)">
+              <Per100>
+                <Value>0.10700</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1196" Name="Vitamin A (µg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1197" Name="Vitamin D (µg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1198" Name="Vitamin E (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1730" Name="Vitamin K (µg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1199" Name="Vitamin C (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1200" Name="Thiamin (B1) (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1201" Name="Riboflavin (B2) (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1202" Name="Niacin (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1203" Name="Vitamin B6 (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1204" Name="Folic Acid (µg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1205" Name="Vitamin B12 (µg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1206" Name="Biotin (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1731" Name="Biotin (µg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1207" Name="Pantothenic acid (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1732" Name="Potassium (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1733" Name="Chloride (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1208" Name="Calcium (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1209" Name="Phosphorus (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1210" Name="Iron (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1211" Name="Magnesium (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1212" Name="Zinc (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1734" Name="Copper (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1735" Name="Manganese (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1736" Name="Fluoride (mg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1737" Name="Selenium (µg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1738" Name="Chromium (µg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1739" Name="Molybdenum (µg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+            <NutrientValues Id="1213" Name="Iodine (µg)">
+              <Per100>
+                <Value>1.00000</Value>
+              </Per100>
+              <PerServing>
+                <Value>1.00000</Value>
+              </PerServing>
+            </NutrientValues>
+          </NumericNutrition>
+          <NameLookups Id="97" Name="Manufacturer Brand">
+            <NameValue>
+              <Name Id="1251">Brand</Name>
+              <Value Id="31471">Kinder</Value>
+            </NameValue>
+          </NameLookups>
+          <NameTextItems Id="119" Name="Shelf Ready Pack">
+            <NameText>
+              <Name Id="1414">GTIN</Name>
+              <Text xml:space="preserve">04008400321103</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1406">Height</Name>
+              <Text xml:space="preserve">156</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1407">Width</Name>
+              <Text xml:space="preserve">237</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1408">Depth</Name>
+              <Text xml:space="preserve">280</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1409">Weight</Name>
+              <Text xml:space="preserve">1923</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1410">Unit Count</Name>
+              <Text xml:space="preserve">11</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1411">Unit Height</Name>
+              <Text xml:space="preserve">1</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1412">Unit Width</Name>
+              <Text xml:space="preserve">1</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1413">Unit Depth</Name>
+              <Text xml:space="preserve">11</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1771">Nesting Height</Name>
+              <Text xml:space="preserve">142</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1772">Nesting Width</Name>
+              <Text xml:space="preserve">224</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1773">Nesting Depth</Name>
+              <Text xml:space="preserve">278</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1415">Merchandise Multiple Ways</Name>
+              <Text xml:space="preserve">No</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1785">Prototype</Name>
+              <Text xml:space="preserve">No</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1821">Is Case</Name>
+              <Text xml:space="preserve">No</Text>
+            </NameText>
+          </NameTextItems>
+          <NameTextItems Id="120" Name="Break Pack">
+            <NameText>
+              <Name Id="1427">GTIN</Name>
+              <Text xml:space="preserve">04008400321103</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1422">Height</Name>
+              <Text xml:space="preserve">162</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1423">Width</Name>
+              <Text xml:space="preserve">286</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1424">Depth</Name>
+              <Text xml:space="preserve">244</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1425">Weight</Name>
+              <Text xml:space="preserve">2077</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1426">Unit Count</Name>
+              <Text xml:space="preserve">11</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1787">Nesting Height</Name>
+              <Text xml:space="preserve">139</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1788">Nesting Width</Name>
+              <Text xml:space="preserve">182</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1789">Nesting Depth</Name>
+              <Text xml:space="preserve">319</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1822">Prototype</Name>
+              <Text xml:space="preserve">No</Text>
+            </NameText>
+          </NameTextItems>
+          <NameTextItems Id="121" Name="Case">
+            <NameText>
+              <Name Id="1421">GTIN</Name>
+              <Text xml:space="preserve">04008400321103</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1416">Height</Name>
+              <Text xml:space="preserve">362</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1417">Width</Name>
+              <Text xml:space="preserve">572</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1418">Depth</Name>
+              <Text xml:space="preserve">486</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1419">Weight</Name>
+              <Text xml:space="preserve">4154</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1420">Unit Count</Name>
+              <Text xml:space="preserve">22</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1774">Nesting Height</Name>
+              <Text xml:space="preserve">359</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1775">Nesting Width</Name>
+              <Text xml:space="preserve">454</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1776">Nesting Depth</Name>
+              <Text xml:space="preserve">425</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1786">Prototype</Name>
+              <Text xml:space="preserve">No</Text>
+            </NameText>
+          </NameTextItems>
+          <NameTextLookups Id="131" Name="Upper Age Limit">
+            <NameValueText>
+              <Name Id="1681">Advisory</Name>
+              <Value Id="16144">Years</Value>
+              <Text xml:space="preserve">1</Text>
+            </NameValueText>
+            <NameValueText>
+              <Name Id="1682">Statutory</Name>
+              <Value Id="16144">Years</Value>
+              <Text xml:space="preserve">3</Text>
+            </NameValueText>
+          </NameTextLookups>
+          <NameTextItems Id="134" Name="Unit Merchandising">
+            <NameText>
+              <Name Id="1778">Height</Name>
+              <Text xml:space="preserve">149</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1779">Width</Name>
+              <Text xml:space="preserve">8</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1780">Depth</Name>
+              <Text xml:space="preserve">27</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1768">Nesting Height</Name>
+              <Text xml:space="preserve">143</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1769">Nesting Width</Name>
+              <Text xml:space="preserve">424</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1770">Nesting Depth</Name>
+              <Text xml:space="preserve">21</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1782">Unit Stackable</Name>
+              <Text xml:space="preserve">No</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1781">Unit Stable</Name>
+              <Text xml:space="preserve">Yes</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1783">Merchandise Multiple Ways</Name>
+              <Text xml:space="preserve">No</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1784">Prototype</Name>
+              <Text xml:space="preserve">No</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1810">Max. Squashed Height</Name>
+              <Text xml:space="preserve">136</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1811">Max. Squashed Width</Name>
+              <Text xml:space="preserve">217</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1812">Max. Squashed Depth</Name>
+              <Text xml:space="preserve">24</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1813">Squashed Volume Type</Name>
+              <Text xml:space="preserve">Fixed</Text>
+            </NameText>
+          </NameTextItems>
+          <NameTextItems Id="135" Name="Pallet">
+            <NameText>
+              <Name Id="1799">GTIN</Name>
+              <Text xml:space="preserve">12345678901234</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1795">Height</Name>
+              <Text xml:space="preserve">100</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1796">Width</Name>
+              <Text xml:space="preserve">50</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1797">Depth</Name>
+              <Text xml:space="preserve">50</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1798">Weight</Name>
+              <Text xml:space="preserve">4000</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1800">Child Count</Name>
+              <Text xml:space="preserve">40</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1801">Layers</Name>
+              <Text xml:space="preserve">3</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1802">Children Per Layer</Name>
+              <Text xml:space="preserve">20</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1803">Prototype Product</Name>
+              <Text xml:space="preserve">Yes</Text>
+            </NameText>
+          </NameTextItems>
+          <NameTextItems Id="136" Name="Lamp &amp; Bulb Specifications">
+            <NameText>
+              <Name Id="1804">Energy efficiency class on a scale of A (more efficient) to G (less efficient)</Name>
+              <Text xml:space="preserve">A</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1805">Luminous flux of the lamp (Lumens)</Name>
+              <Text xml:space="preserve">60</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1806">Input power (Watts)</Name>
+              <Text xml:space="preserve">60</Text>
+            </NameText>
+            <NameText>
+              <Name Id="2037">Voltage Rating (V)</Name>
+              <Text xml:space="preserve">12</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1807">Average rated life of lamp (Hours)</Name>
+              <Text xml:space="preserve">2000</Text>
+            </NameText>
+            <NameText>
+              <Name Id="2036">Colour Temperature</Name>
+              <Text xml:space="preserve">5500k</Text>
+            </NameText>
+          </NameTextItems>
+          <NameLookups Id="137" Name="New Product Development">
+            <NameValue>
+              <Name Id="1818">New Product Development</Name>
+              <Value Id="27719">Final Product - Not NPD</Value>
+            </NameValue>
+          </NameLookups>
+          <LongTextItems Id="138" Name="Alcohol By Volume Other Text">
+            <Text xml:space="preserve">Any information relating to the Alcohol By Volume fields which can't be captured in the defined fields</Text>
+          </LongTextItems>
+          <LongTextItems Id="139" Name="Alcohol Units Other Text">
+            <Text xml:space="preserve">2.6 UK Units per bottle</Text>
+            <Text xml:space="preserve">UK Chief Medical Officer recommends adults do not regularly exceed:</Text>
+            <Text xml:space="preserve">Men 3-4 units a day</Text>
+            <Text xml:space="preserve">Women 2-3 units a day</Text>
+            <Text xml:space="preserve">drinkware.co.uk</Text>
+            <Text xml:space="preserve">Any information relating to the Alcohol which can't be captured in the defined fields - Example</Text>
+          </LongTextItems>
+          <Memo Id="142" Name="Recipes" xml:space="preserve">This is where recipes found on the pack will be transcribed.</Memo>
+          <LongTextItems Id="144" Name="Place of Birth">
+            <Text xml:space="preserve">Grenoble, France</Text>
+          </LongTextItems>
+          <LongTextItems Id="145" Name="Place of Rearing">
+            <Text xml:space="preserve">Port Moresby, Papua New Guinea</Text>
+          </LongTextItems>
+          <LongTextItems Id="146" Name="Place of Slaughter">
+            <Text xml:space="preserve">London, England</Text>
+          </LongTextItems>
+          <NameTextItems Id="147" Name="Origin">
+            <NameText>
+              <Name Id="2016">Origin Free Text</Name>
+              <Text xml:space="preserve">Farmed in Devon, Andorra.</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1834">Place of Provenance</Name>
+              <Text xml:space="preserve">Farmed in Devonshire.</Text>
+            </NameText>
+            <NameText>
+              <Name Id="1835">Fish Catch Area</Name>
+              <Text xml:space="preserve">Caught in the Baltic Sea.</Text>
+            </NameText>
+          </NameTextItems>
+          <LongTextItems Id="148" Name="Third Party Logo Other Text">
+            <Text xml:space="preserve">Third Party Logo - Further information goes here</Text>
+          </LongTextItems>
+          <Statements Id="149" Name="Recycling Scheme">
+            <Statement Id="1878">OPRL</Statement>
+          </Statements>
+          <LongTextItems Id="150" Name="Recycling Other Text">
+            <Text xml:space="preserve">This is where further recycling information goes that is currently not available through drop downs</Text>
+          </LongTextItems>
+          <Memo Id="151" Name="Importer Address" xml:space="preserve">The address of the product's Importer
+Example - 
+Ferrero UK Ltd,
+7 Croxley Green Business Park,
+Herts.,
+WD18 8PA,
+UK.</Memo>
+          <Memo Id="152" Name="Distributor Address" xml:space="preserve">The address of the product's distributor
+Example - 
+Ferrero UK Ltd,
+7 Croxley Green Business Park,
+Herts.,
+WD18 8PA,
+UK.</Memo>
+          <LongTextItems Id="153" Name="Telephone Helpline">
+            <Text xml:space="preserve">+44 (0) 8453 701980</Text>
+          </LongTextItems>
+          <LongTextItems Id="154" Name="Email Helpline">
+            <Text xml:space="preserve">contact@testemail.com</Text>
+          </LongTextItems>
+          <LongTextItems Id="155" Name="Web Address">
+            <Text xml:space="preserve">www.testproduct.com</Text>
+          </LongTextItems>
+          <LongTextItems Id="156" Name="Nutritional Claims">
+            <Text xml:space="preserve">This is where we would capture a nutritional claim</Text>
+            <Text xml:space="preserve">Example: High in Protein</Text>
+          </LongTextItems>
+          <LongTextItems Id="157" Name="Health Claims">
+            <Text xml:space="preserve">This is where health claims would go</Text>
+            <Text xml:space="preserve">Example: Protein will aid in muscle growth</Text>
+          </LongTextItems>
+          <NameTextItems Id="158" Name="Sub Brand">
+            <NameText>
+              <Name Id="1881">Sub Brand</Name>
+              <Text xml:space="preserve">Kinder</Text>
+            </NameText>
+          </NameTextItems>
+          <Memo Id="159" Name="Regulated Product Name" xml:space="preserve">Regulated Product Name</Memo>
+          <NameLookups Id="160" Name="Calculated Nutrition Ordering">
+            <NameValue>
+              <Name Id="1882">Scheme</Name>
+              <Value Id="35181">Regulation (EU) No 1169/2011</Value>
+            </NameValue>
+          </NameLookups>
+          <Memo Id="166" Name="Nappy Size Other Text" xml:space="preserve">Nappy Free text for products that do not follow the above formatting.</Memo>
+          <Statements Id="173" Name="Allergen Tag Format">
+            <Statement Id="1902">Bold</Statement>
+          </Statements>
+          <Memo Id="174" Name="Allergen Tag Text" MimeType="text/html" xml:space="preserve"><![CDATA[Free text information about the <span style='font-weight: bold;'>allergens</span> listed above.]]></Memo>
+          <FrontOfPackGDA Id="178" Name="Front of Pack Nutrition">
+            <Reference Id="4" Description="Per Portion">
+              <Headers>
+                <Header>Each serving (30g) contains:</Header>
+              </Headers>
+              <Lozenges>
+                <Lozenge Id="1906" Name="Energy">
+                  <Quantities>
+                    <Quantity>
+                      <Value>100</Value>
+                      <Unit Id="3" Name="kcal" />
+                    </Quantity>
+                  </Quantities>
+                  <Percentage>
+                    <Value>10.00</Value>
+                  </Percentage>
+                  <Rating Id="1" Name="Low" />
+                </Lozenge>
+                <Lozenge Id="1907" Name="Fat">
+                  <Quantities>
+                    <Quantity>
+                      <Value>1</Value>
+                      <Unit Id="1" Name="g" />
+                    </Quantity>
+                  </Quantities>
+                  <Percentage>
+                    <Value>15.00</Value>
+                  </Percentage>
+                  <Rating Id="2" Name="Medium" />
+                </Lozenge>
+                <Lozenge Id="1908" Name="Saturates">
+                  <Quantities>
+                    <Quantity>
+                      <Value>3.5</Value>
+                      <Unit Id="1" Name="g" />
+                    </Quantity>
+                  </Quantities>
+                  <Percentage>
+                    <Value>10.00</Value>
+                  </Percentage>
+                  <Rating Id="3" Name="High" />
+                </Lozenge>
+                <Lozenge Id="1909" Name="Sugars">
+                  <Quantities>
+                    <Quantity>
+                      <Value>0</Value>
+                      <Unit Id="1" Name="g" />
+                    </Quantity>
+                  </Quantities>
+                  <Percentage>
+                    <Value>20.00</Value>
+                  </Percentage>
+                </Lozenge>
+                <Lozenge Id="1910" Name="Salt">
+                  <Quantities>
+                    <Quantity>
+                      <Value>0.1</Value>
+                      <Unit Id="1" Name="g" />
+                    </Quantity>
+                  </Quantities>
+                  <Percentage>
+                    <Value>30.00</Value>
+                  </Percentage>
+                  <Rating Id="1" Name="Low" />
+                </Lozenge>
+              </Lozenges>
+              <Footers>
+                <Footer>Of your GDA*</Footer>
+                <Footer>*Guideline Daily Amount of an average 2000kcal Diet</Footer>
+              </Footers>
+            </Reference>
+            <Reference Id="5" Description="Per 100g/ml">
+              <Headers>
+                <Header>Each serving (100g) contains:</Header>
+              </Headers>
+              <Lozenges>
+                <Lozenge Id="1906" Name="Energy">
+                  <Quantities>
+                    <Quantity>
+                      <Value>300</Value>
+                      <Unit Id="3" Name="kcal" />
+                    </Quantity>
+                  </Quantities>
+                  <Percentage>
+                    <Value>20.00</Value>
+                  </Percentage>
+                  <Rating Id="2" Name="Medium" />
+                </Lozenge>
+                <Lozenge Id="1907" Name="Fat">
+                  <Quantities>
+                    <Quantity>
+                      <Value>10</Value>
+                      <Unit Id="1" Name="g" />
+                    </Quantity>
+                  </Quantities>
+                  <Percentage>
+                    <Value>30.00</Value>
+                  </Percentage>
+                  <Rating Id="2" Name="Medium" />
+                </Lozenge>
+                <Lozenge Id="1908" Name="Saturates">
+                  <Quantities>
+                    <Quantity>
+                      <Value>15</Value>
+                      <Unit Id="1" Name="g" />
+                    </Quantity>
+                  </Quantities>
+                  <Percentage>
+                    <Value>40.00</Value>
+                  </Percentage>
+                  <Rating Id="1" Name="Low" />
+                </Lozenge>
+                <Lozenge Id="1909" Name="Sugars">
+                  <Quantities>
+                    <Quantity>
+                      <Value>90</Value>
+                      <Unit Id="1" Name="g" />
+                    </Quantity>
+                  </Quantities>
+                  <Percentage>
+                    <Value>50.00</Value>
+                  </Percentage>
+                  <Rating Id="3" Name="High" />
+                </Lozenge>
+                <Lozenge Id="1910" Name="Salt">
+                  <Quantities>
+                    <Quantity>
+                      <Value>100</Value>
+                      <Unit Id="1" Name="g" />
+                    </Quantity>
+                  </Quantities>
+                  <Percentage>
+                    <Value>10.00</Value>
+                  </Percentage>
+                  <Rating Id="3" Name="High" />
+                </Lozenge>
+              </Lozenges>
+              <Footers>
+                <Footer>Of your GDA*</Footer>
+                <Footer>*Guideline Daily Amount of an average 2000kcal Diet</Footer>
+              </Footers>
+            </Reference>
+          </FrontOfPackGDA>
+          <NameLookups Id="180" Name="Product Composition">
+            <NameValue>
+              <Name Id="1985">Sweetener</Name>
+              <Value Id="39207">Natural</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1986">Concentrate</Name>
+              <Value Id="39210">Not From Concentrate</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1987">Liquid Base</Name>
+              <Value Id="39212">In Juice</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1988">Carbonated</Name>
+              <Value Id="39214">Carbonated</Value>
+            </NameValue>
+          </NameLookups>
+          <NameLookups Id="181" Name="Pet Type">
+            <NameValue>
+              <Name Id="1989">Type of Dog</Name>
+              <Value Id="37796">Puppy/Junior</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="1990">Type of Cat</Name>
+              <Value Id="37799">Kitten/Junior</Value>
+            </NameValue>
+          </NameLookups>
+          <NameTextLookups Id="191" Name="Usage Count">
+            <NameValueText>
+              <Name Id="2017">Number of uses</Name>
+              <Value Id="39552">Servings</Value>
+              <Text xml:space="preserve">10</Text>
+            </NameValueText>
+          </NameTextLookups>
+          <LongTextItems Id="192" Name="Company Name">
+            <Text xml:space="preserve">Name of the Company - eg Ferrero UK Ltd</Text>
+          </LongTextItems>
+          <Memo Id="193" Name="Company Address" xml:space="preserve">Just the address of the company without the company name:
+7 Croxley Green Business Park,
+Herts.,
+WD18 8PA,
+UK.</Memo>
+          <LongTextItems Id="194" Name="Usage Other Text">
+            <Text xml:space="preserve">1 Serving is 25 grams</Text>
+          </LongTextItems>
+          <NameLookups Id="195" Name="Bulb Specifications">
+            <NameValue>
+              <Name Id="2038">Bulb Type</Name>
+              <Value Id="40699">LED</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="2039">Dimmable</Name>
+              <Value Id="40702">Dimmable</Value>
+            </NameValue>
+            <NameValue>
+              <Name Id="2040">Filament Type</Name>
+              <Value Id="40705">SES</Value>
+            </NameValue>
+          </NameLookups>
+          <Memo Id="196" Name="Trademark Information" xml:space="preserve">Any trademark information relating to the product.</Memo>
+        </ItemTypeGroup>
+      </Language>
+    </Data>
+  </Product>
+</Message>

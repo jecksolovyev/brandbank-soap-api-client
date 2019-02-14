@@ -1,0 +1,447 @@
+<Message Id="c6f673e7-7990-4a52-92ce-f512b1fd4477" DateTime="2019-01-25T09:12:54Z" DataVersion="2.00.00" xmlns="">
+    <Product VersionDateTime="2019-01-22T08:46:33Z" UpdateType="AddOrUpdate">
+        <Identity>
+            <TargetMarkets>
+                <TargetMarket Code="CZ"/>
+            </TargetMarkets>
+            <ProductCodes>
+                <Code Scheme="GTIN">3272770099486</Code>
+                <Code Scheme="BRANDBANK:PVID">6675276</Code>
+            </ProductCodes>
+            <Subscription Id="56399" Code="ATPK001">Savencia Fromage &amp; Dairy CZ</Subscription>
+            <DiagnosticDescription Code="cs">Lučina Kozí s pažitkou 150g</DiagnosticDescription>
+            <DefaultLanguage>cs</DefaultLanguage>
+            <Compliance>
+                <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+            </Compliance>
+        </Identity>
+        <Assets>
+            <Image ShotTypeId="1" ShotType="Identifikační snímek" MimeType="image/jpeg">
+                <Specification>
+                    <RequestedDimensions Units="Pixels">
+                        <Width>750</Width>
+                        <Height>750</Height>
+                    </RequestedDimensions>
+                    <Quality>85</Quality>
+                    <Resolution>72</Resolution>
+                    <IsCropped>false</IsCropped>
+                    <CropPadding>0</CropPadding>
+                    <MaxSizeInBytes>0</MaxSizeInBytes>
+                </Specification>
+                <Url>
+                    http://productimages.brandbank.com/snapshotimagehandler.ashx?id=00b8d94e-0932-c26f-3a83-813e071fabc2
+                </Url>
+                <Thumbprint>8UgU2hddGeeVzM8b8C9ipQ==</Thumbprint>
+            </Image>
+        </Assets>
+        <Data>
+            <Language Code="en-GB" Source="OffPack" GroupingSetId="0" GroupingSetName="No Grouping">
+                <Description>Lučina Goat with Chives 150g</Description>
+                <Categorisations>
+                    <Categorisation Scheme="BRANDBANK">
+                        <Level Code="08">Deli</Level>
+                        <Level Code="03">Cheese</Level>
+                        <Level Code="13">Other Cheese</Level>
+                    </Categorisation>
+                </Categorisations>
+                <ItemTypeGroup Id="0" Name="All Attributes">
+                    <NameTextItems Id="16" Name="Dimension">
+                        <NameText>
+                            <Name Id="183">Shelf Height</Name>
+                            <Text xml:space="preserve">62</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="184">Shelf Width</Name>
+                            <Text xml:space="preserve">82</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="185">Shelf Depth</Name>
+                            <Text xml:space="preserve">82</Text>
+                        </NameText>
+                    </NameTextItems>
+                    <NameLookups Id="33" Name="Standardised Brand">
+                        <NameValue>
+                            <Name Id="224">Brand</Name>
+                            <Value Id="14294">Lučina</Value>
+                        </NameValue>
+                    </NameLookups>
+                    <NameTextItems Id="34" Name="Weight">
+                        <NameText>
+                            <Name Id="227">Gross Weight</Name>
+                            <Text xml:space="preserve">166</Text>
+                        </NameText>
+                    </NameTextItems>
+                    <Statements Id="83" Name="Languages On Pack">
+                        <Statement Id="995">Czech</Statement>
+                        <Statement Id="1129">Slovak</Statement>
+                    </Statements>
+                    <NameTextItems Id="119" Name="Shelf Ready Pack">
+                        <NameText>
+                            <Name Id="1406">Height</Name>
+                            <Text xml:space="preserve">66</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1407">Width</Name>
+                            <Text xml:space="preserve">181</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1408">Depth</Name>
+                            <Text xml:space="preserve">259</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1409">Weight</Name>
+                            <Text xml:space="preserve">1031</Text>
+                        </NameText>
+                    </NameTextItems>
+                    <NameTextItems Id="121" Name="Case">
+                        <NameText>
+                            <Name Id="1421">GTIN</Name>
+                            <Text xml:space="preserve">03272779947016</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1416">Height</Name>
+                            <Text xml:space="preserve">67</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1417">Width</Name>
+                            <Text xml:space="preserve">182</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1418">Depth</Name>
+                            <Text xml:space="preserve">260</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1419">Weight</Name>
+                            <Text xml:space="preserve">1065</Text>
+                        </NameText>
+                    </NameTextItems>
+                    <NameTextItems Id="134" Name="Unit Merchandising">
+                        <NameText>
+                            <Name Id="1778">Height</Name>
+                            <Text xml:space="preserve">62</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1779">Width</Name>
+                            <Text xml:space="preserve">82</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1780">Depth</Name>
+                            <Text xml:space="preserve">82</Text>
+                        </NameText>
+                    </NameTextItems>
+                </ItemTypeGroup>
+            </Language>
+            <Language Code="cs" Source="OffPack" GroupingSetId="0" GroupingSetName="Žádné seskupení">
+                <Description>Lučina Kozí s pažitkou 150g</Description>
+                <Categorisations>
+                    <Categorisation Scheme="BRANDBANK">
+                        <Level Code="08">Lahůdky</Level>
+                        <Level Code="03">Sýr</Level>
+                        <Level Code="13">Jiné sýry</Level>
+                    </Categorisation>
+                </Categorisations>
+                <ItemTypeGroup Id="0" Name="Všechny atributy">
+                    <NameLookups Id="4" Name="Upozornění pro alergiky">
+                        <NameValue>
+                            <Name Id="116">Mléko</Name>
+                            <Value Id="1">Obsahuje</Value>
+                        </NameValue>
+                    </NameLookups>
+                    <NameTextItems Id="16" Name="Rozměr">
+                        <NameText>
+                            <Name Id="183">Výška</Name>
+                            <Text xml:space="preserve">62</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="184">Šířka</Name>
+                            <Text xml:space="preserve">82</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="185">Hloubka</Name>
+                            <Text xml:space="preserve">82</Text>
+                        </NameText>
+                    </NameTextItems>
+                    <Memo Id="20" Name="Skladování" xml:space="preserve">Skladujte při teplotě od 2 °C do 8 °C.</Memo>
+                    <NameLookups Id="23" Name="Země">
+                        <NameValue>
+                            <Name Id="195">Země původu</Name>
+                            <Value Id="96" Code="FR">Francie</Value>
+                        </NameValue>
+                    </NameLookups>
+                    <LongTextItems Id="25" Name="Obchodní značka">
+                        <Text xml:space="preserve">Lučina</Text>
+                    </LongTextItems>
+                    <Memo Id="26" Name="Kontaktní informace" xml:space="preserve">Savencia Fromage &amp; Dairy Czech Republic, a.s.
+Vyskočilova 1481/4 Michle
+140 00 Praha 4
+810 800 028
+www.mojelucina.cz</Memo>
+                    <NameLookups Id="27" Name="Způsob skladování">
+                        <NameValue>
+                            <Name Id="190">Typ</Name>
+                            <Value Id="272">Chlazené</Value>
+                        </NameValue>
+                    </NameLookups>
+                    <NameTextItems Id="28" Name="Podmínky skladování">
+                        <NameText>
+                            <Name Id="191">Min teplota °C</Name>
+                            <Text xml:space="preserve">2</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="192">Max teplota °C</Name>
+                            <Text xml:space="preserve">8</Text>
+                        </NameText>
+                    </NameTextItems>
+                    <NameLookups Id="29" Name="Druh balení">
+                        <NameValue>
+                            <Name Id="197">Druh</Name>
+                            <Value Id="282">Krabice</Value>
+                        </NameValue>
+                    </NameLookups>
+                    <LongTextItems Id="32" Name="Vlastnosti">
+                        <Text xml:space="preserve">Lahůdka s pažitkou, která jazýček potěší</Text>
+                        <Text xml:space="preserve">100% kozího mléka</Text>
+                    </LongTextItems>
+                    <NameLookups Id="33" Name="Standardizovaná značka">
+                        <NameValue>
+                            <Name Id="224">Značka</Name>
+                            <Value Id="14294">Lučina</Value>
+                        </NameValue>
+                    </NameLookups>
+                    <NameTextItems Id="34" Name="Hmotnost">
+                        <NameText>
+                            <Name Id="227">Hrubá hmotnost</Name>
+                            <Text xml:space="preserve">166</Text>
+                        </NameText>
+                    </NameTextItems>
+                    <Memo Id="36" Name="Marketing značky" xml:space="preserve">Lučina
+Čistá chuť přírody.</Memo>
+                    <NameLookups Id="65" Name="Jazyk produktu">
+                        <NameValue>
+                            <Name Id="924">Instalační jazyk</Name>
+                            <Value Id="11648" Code="cs">čeština</Value>
+                        </NameValue>
+                        <NameValue>
+                            <Name Id="923">Hlavní jazyk návodu</Name>
+                            <Value Id="11648" Code="cs">čeština</Value>
+                        </NameValue>
+                    </NameLookups>
+                    <NameTextItems Id="68" Name="Velikost balení">
+                        <NameText>
+                            <Name Id="926">Velikost balení: Velikost číslem</Name>
+                            <Text xml:space="preserve">150</Text>
+                        </NameText>
+                    </NameTextItems>
+                    <NameLookups Id="69" Name="Jednotka (specifická)">
+                        <NameValue>
+                            <Name Id="927">Kus (specifické)</Name>
+                            <Value Id="12570" Code="g">Gramy</Value>
+                        </NameValue>
+                    </NameLookups>
+                    <LongTextItems Id="70" Name="Rozměry balení">
+                        <Text xml:space="preserve">150</Text>
+                    </LongTextItems>
+                    <LongTextItems Id="71" Name="Jednotka (popis)">
+                        <Text xml:space="preserve">g</Text>
+                    </LongTextItems>
+                    <Statements Id="72" Name="Průměrný rozměr">
+                        <Statement Id="928">Průměrná míra (e)</Statement>
+                    </Statements>
+                    <Statements Id="83" Name="Jazyky na balení">
+                        <Statement Id="995">Čeština</Statement>
+                        <Statement Id="1129">Slovenština</Statement>
+                    </Statements>
+                    <LongTextItems Id="84" Name="Složení" MimeType="text/html">
+                        <Text xml:space="preserve">Kozí &lt;span style='font-weight: bold;'&gt;mléko&lt;/span&gt;</Text>
+                        <Text xml:space="preserve">Sůl</Text>
+                        <Text xml:space="preserve">Pažitka 0,4 %</Text>
+                        <Text xml:space="preserve">Sušina: 25 %</Text>
+                        <Text xml:space="preserve">Tuk: 11 %</Text>
+                    </LongTextItems>
+                    <TextualNutrition Id="85" Name="Výživové hodnoty">
+                        <Headings>
+                            <Heading>na 100 g výrobku:</Heading>
+                        </Headings>
+                        <Nutrient>
+                            <Name>energie</Name>
+                            <Values>
+                                <Value>614 kJ/148 kcal</Value>
+                            </Values>
+                        </Nutrient>
+                        <Nutrient>
+                            <Name>tuky</Name>
+                            <Values>
+                                <Value>12 g</Value>
+                            </Values>
+                        </Nutrient>
+                        <Nutrient>
+                            <Name>z toho nasycené mastné kyseliny</Name>
+                            <Values>
+                                <Value>8,4 g</Value>
+                            </Values>
+                        </Nutrient>
+                        <Nutrient>
+                            <Name>sacharidy</Name>
+                            <Values>
+                                <Value>2,0 g</Value>
+                            </Values>
+                        </Nutrient>
+                        <Nutrient>
+                            <Name>z toho cukry</Name>
+                            <Values>
+                                <Value>2,0 g</Value>
+                            </Values>
+                        </Nutrient>
+                        <Nutrient>
+                            <Name>bílkoviny</Name>
+                            <Values>
+                                <Value>8,0 g</Value>
+                            </Values>
+                        </Nutrient>
+                        <Nutrient>
+                            <Name>sůl</Name>
+                            <Values>
+                                <Value>1,0 g</Value>
+                            </Values>
+                        </Nutrient>
+                    </TextualNutrition>
+                    <NumericNutrition Id="86" Name="Vypočítaná Výživová hodnota">
+                        <Per100Unit>g</Per100Unit>
+                        <Per100Heading>na 100</Per100Heading>
+                        <NutrientValues Id="1182" Name="Energetická hodnota (kJ)">
+                            <Per100>
+                                <Value>614.00000</Value>
+                            </Per100>
+                        </NutrientValues>
+                        <NutrientValues Id="1183" Name="Energetická hodnota (kcal)">
+                            <Per100>
+                                <Value>148.00000</Value>
+                            </Per100>
+                        </NutrientValues>
+                        <NutrientValues Id="1189" Name="Tuky (g)">
+                            <Per100>
+                                <Value>12.00000</Value>
+                            </Per100>
+                        </NutrientValues>
+                        <NutrientValues Id="1190" Name=" z toho nasycené (g)">
+                            <Per100>
+                                <Value>8.40000</Value>
+                            </Per100>
+                        </NutrientValues>
+                        <NutrientValues Id="1185" Name="Sacharidy (g)">
+                            <Per100>
+                                <Value>2.00000</Value>
+                            </Per100>
+                        </NutrientValues>
+                        <NutrientValues Id="1186" Name=" z toho cukry (g)">
+                            <Per100>
+                                <Value>2.00000</Value>
+                            </Per100>
+                        </NutrientValues>
+                        <NutrientValues Id="1184" Name="Bílkoviny (g)">
+                            <Per100>
+                                <Value>8.00000</Value>
+                            </Per100>
+                        </NutrientValues>
+                        <NutrientValues Id="1214" Name="Sůl (g)">
+                            <Per100>
+                                <Value>1.00000</Value>
+                            </Per100>
+                        </NutrientValues>
+                    </NumericNutrition>
+                    <NameTextItems Id="119" Name="Shelf-ready balení">
+                        <NameText>
+                            <Name Id="1406">Výška</Name>
+                            <Text xml:space="preserve">66</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1407">Šířka</Name>
+                            <Text xml:space="preserve">181</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1408">Hloubka</Name>
+                            <Text xml:space="preserve">259</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1409">Váha</Name>
+                            <Text xml:space="preserve">1031</Text>
+                        </NameText>
+                    </NameTextItems>
+                    <NameTextItems Id="121" Name="Krabice">
+                        <NameText>
+                            <Name Id="1421">GTIN</Name>
+                            <Text xml:space="preserve">03272779947016</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1416">Výška</Name>
+                            <Text xml:space="preserve">67</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1417">Šířka</Name>
+                            <Text xml:space="preserve">182</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1418">Hloubka</Name>
+                            <Text xml:space="preserve">260</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1419">Váha</Name>
+                            <Text xml:space="preserve">1065</Text>
+                        </NameText>
+                    </NameTextItems>
+                    <NameTextItems Id="134" Name="Prodej jednotky">
+                        <NameText>
+                            <Name Id="1778">Výška</Name>
+                            <Text xml:space="preserve">62</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1779">Šířka</Name>
+                            <Text xml:space="preserve">82</Text>
+                        </NameText>
+                        <NameText>
+                            <Name Id="1780">Hloubka</Name>
+                            <Text xml:space="preserve">82</Text>
+                        </NameText>
+                    </NameTextItems>
+                    <NameTextItems Id="147" Name="Původ">
+                        <NameText>
+                            <Name Id="2016">Volný text pro původ</Name>
+                            <Text xml:space="preserve">Země původu Francie</Text>
+                        </NameText>
+                    </NameTextItems>
+                    <Memo Id="152" Name="Adresa distributora" xml:space="preserve">Savencia Fromage &amp; Dairy Czech Republic, a.s.
+Vyskočilova 1481/4 Michle
+140 00 Praha 4</Memo>
+                    <LongTextItems Id="153" Name="Telefonní asistenční linka">
+                        <Text xml:space="preserve">810 800 028</Text>
+                    </LongTextItems>
+                    <LongTextItems Id="155" Name="Webová adresa">
+                        <Text xml:space="preserve">www.mojelucina.cz</Text>
+                    </LongTextItems>
+                    <Memo Id="159" Name="Regulovaný název výrobku" xml:space="preserve">Čerstvý termizovaný sýr ze 100% kozího mléka s pažitkou.</Memo>
+                    <NameLookups Id="160" Name="Řazení vypočítané výživové hodnoty">
+                        <NameValue>
+                            <Name Id="1882">Řazení vypočítaných výživových hodnot</Name>
+                            <Value Id="35181">Regulace EU č. 1169/2011</Value>
+                        </NameValue>
+                    </NameLookups>
+                    <Statements Id="173" Name="Formát příznaku alergenu">
+                        <Statement Id="1902">Tučný</Statement>
+                    </Statements>
+                    <NameTextItems Id="184" Name="Rozklad popisu">
+                        <NameText>
+                            <Name Id="1998">Varianta</Name>
+                            <Text xml:space="preserve">Kozí s pažitkou</Text>
+                        </NameText>
+                    </NameTextItems>
+                    <LongTextItems Id="192" Name="Company Name">
+                        <Text xml:space="preserve">Savencia Fromage &amp; Dairy Czech Republic, a.s.</Text>
+                    </LongTextItems>
+                    <Memo Id="193" Name="Adresa společnosti" xml:space="preserve">Vyskočilova 1481/4 Michle
+140 00 Praha 4</Memo>
+                    <Memo Id="198" Name="Informace pro alergiky" xml:space="preserve">Vyrobeno v závodě, který zpracovává kravské i kozí mléko.</Memo>
+                </ItemTypeGroup>
+            </Language>
+        </Data>
+    </Product>
+</Message>
