@@ -17,6 +17,16 @@ Component works with PHP 7.1 or above.
 ## Submitting bugs and feature requests
 Bugs and feature request are tracked on GitHub
 
+## First thing comes first
+```php
+require_once __DIR__ . '/vendor/autoload.php';
+
+// initiate the API
+$api = new BrandbankSOAPAPIClient\BrandbankSOAPAPIClient(
+    new BrandbankSOAPAPIClient\Authenticator\HeaderGuidAuthenticator('XXXX')
+);
+```
+
 ## How to set up your products list 
 ```php
 $items = ['3272770099486'];
@@ -34,15 +44,8 @@ if ($api->callSupplyCoverageReport($coverageReport)->isSuccess()) {
 ## How to read new/updated product data from API
 
 ```php
-require_once __DIR__ . '/vendor/autoload.php';
-
-$api = new BrandbankSOAPAPIClient\BrandbankSOAPAPIClient(
-    new BrandbankSOAPAPIClient\Authenticator\HeaderGuidAuthenticator('XXXX')
-);
-
-$r = $api->callGetUnsentProductData();
-print_r($api->getLastResponseXml()); // see responce XML
-print_r($r->getUnsentProductDataResult()->getMessage()); // get Message object
+$response = $api->callGetUnsentProductData();
+$message = $response->getUnsentProductDataResult()->getMessage(); // get Message object
 ```
 
 ## License
