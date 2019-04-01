@@ -41,7 +41,7 @@ class Level implements Hashable
 
     public function hash()
     {
-        return md5($this->getCode());
+        return md5($this->getCode() . '/' . $this->getText());
     }
 
     public function equals($obj): bool
