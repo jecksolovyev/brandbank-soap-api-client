@@ -23,7 +23,8 @@
     "ext-json": "*",
     "ext-simplexml": "*",
     "ext-mbstring": "*",
-    "ext-dom": "*"
+    "ext-dom": "*",
+    "php-ds/php-ds": "^1.2"
   },
   "autoload": {
     "psr-4": {
