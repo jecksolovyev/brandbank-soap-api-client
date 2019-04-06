@@ -48,5 +48,11 @@ $response = $api->callGetUnsentProductData();
 $message = $response->getUnsentProductDataResult()->getMessage(); // get Message object
 ```
 
+## Call acknowledge after feed successfully processed
+```php
+// assuming you've previously called $message = $api->callGetUnsentProductData()->getUnsentProductDataResult()->getMessage()
+$api->callAcknowledgeMessage($message->getId());
+```
+
 ## License
 This component is licensed under the MIT License - see the `LICENSE` file for details

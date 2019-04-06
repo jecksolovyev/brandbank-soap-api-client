@@ -9,13 +9,17 @@ use BrandbankSOAPAPIClient\Exception\BrandbankSOAPException;
 use BrandbankSOAPAPIClient\Interfaces\AuthenticatorInterface;
 use BrandbankSOAPAPIClient\Interfaces\RequestInterface;
 use BrandbankSOAPAPIClient\Interfaces\ResponseInterface;
+use BrandbankSOAPAPIClient\Request\AcknowledgeMessageRequest;
 use BrandbankSOAPAPIClient\Request\GetUnsentProductDataRequest;
+use BrandbankSOAPAPIClient\Request\SupplyCoverageReport\AcknowledgeMessage;
 use BrandbankSOAPAPIClient\Request\SupplyCoverageReport\RetailerFeedbackReport;
 use BrandbankSOAPAPIClient\Request\SupplyCoverageReport\SupplyCoverageReport;
 use BrandbankSOAPAPIClient\Request\SupplyCoverageReport\xmlData;
 use BrandbankSOAPAPIClient\Request\SupplyCoverageReportRequest;
+use BrandbankSOAPAPIClient\Response\AcknowledgeMessageResponse;
 use BrandbankSOAPAPIClient\Response\GetUnsentProductDataResponse;
 use BrandbankSOAPAPIClient\Response\SupplyCoverageReportResponse;
+use BrandbankSOAPAPIClient\Service\AcknowledgeMessageService;
 use BrandbankSOAPAPIClient\Service\ReportDataService;
 use BrandbankSOAPAPIClient\Service\SupplyCoverageReportService;
 
@@ -52,7 +56,28 @@ class BrandbankSOAPAPIClient
         /** @var $response SupplyCoverageReportResponse */
         return $response;
     }
-
+    
+    /**
+     * @param string $guid
+     * @return AcknowledgeMessageResponse
+     */
+    public function callAcknowledgeMessage(string $guid): AcknowledgeMessageResponse
+    {
+        // generate request chain
+        $request = new AcknowledgeMessageRequest(new AcknowledgeMessage($guid));
+        
+        try {
+            // call
+            $response = $this->call(AcknowledgeMessageService::class, $request);
+            
+        } catch (\Throwable $throwable) {
+            new BrandbankSOAPException($throwable->getMessage(), $throwable->getCode(), $throwable);
+        }
+        
+        /** @var $response AcknowledgeMessageResponse */
+        return $response;
+    }
+    
     /**
      * @return GetUnsentProductDataResponse
      */
@@ -147,6 +172,12 @@ class BrandbankSOAPAPIClient
             $this->soapWrapper->add(
                 ReportDataService::class,
                 \Closure::fromCallable(new ReportDataService($authenticator))
+            );
+    
+            // register new service with name ReportDataService::class
+            $this->soapWrapper->add(
+                AcknowledgeMessageService::class,
+                \Closure::fromCallable(new AcknowledgeMessageService($authenticator))
             );
 
         } catch (ServiceAlreadyExists $exception) {
